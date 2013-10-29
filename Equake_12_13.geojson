@@ -1,0 +1,592 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "id": 0, "properties": { "Name": "M 4.6 - 156km SSW of Kokopo, Papua New Guinea", "Descriptio": "<h2>M 4.6 - 156km SSW of Kokopo, Papua New Guinea<\/h2><p class=\"quicksummary\"><a" }, "geometry": { "type": "Point", "coordinates": [ 151.6794, -5.6379, 0.0 ] } }
+,
+{ "type": "Feature", "id": 15970, "properties": { "Name": "M 4.6 - Shikoku, Japan", "Descriptio": "<h2>M 4.6 - Shikoku, Japan<\/h2><dl><dt>Time<\/dt><dd>2012-10-26 19:44:37 UTC<\/dd>" }, "geometry": { "type": "Point", "coordinates": [ 133.412, 33.438, 0.0 ] } }
+,
+{ "type": "Feature", "id": 15971, "properties": { "Name": "M 4.7 - near the east coast of Honshu, Japan", "Descriptio": "<h2>M 4.7 - near the east coast of Honshu, Japan<\/h2><dl><dt>Time<\/dt><dd>2012-1" }, "geometry": { "type": "Point", "coordinates": [ 141.557, 37.608, 0.0 ] } }
+,
+{ "type": "Feature", "id": 15972, "properties": { "Name": "M 2.8 - Hawaii region, Hawaii", "Descriptio": "<h2>M 2.8 - Hawaii region, Hawaii<\/h2><dl><dt>Time<\/dt><dd>2012-10-26 19:18:39 U" }, "geometry": { "type": "Point", "coordinates": [ -155.243, 19.384, 0.0 ] } }
+,
+{ "type": "Feature", "id": 15973, "properties": { "Name": "M 4.6 - Philippine Islands region", "Descriptio": "<h2>M 4.6 - Philippine Islands region<\/h2><dl><dt>Time<\/dt><dd>2012-10-26 19:01:" }, "geometry": { "type": "Point", "coordinates": [ 126.557, 11.114, 0.0 ] } }
+,
+{ "type": "Feature", "id": 15974, "properties": { "Name": "M 2.6 - Virgin Islands region", "Descriptio": "<h2>M 2.6 - Virgin Islands region<\/h2><dl><dt>Time<\/dt><dd>2012-10-26 18:48:13 U" }, "geometry": { "type": "Point", "coordinates": [ -64.522, 18.91, 0.0 ] } }
+,
+{ "type": "Feature", "id": 15975, "properties": { "Name": "M 2.6 - Hawaii region, Hawaii", "Descriptio": "<h2>M 2.6 - Hawaii region, Hawaii<\/h2><dl><dt>Time<\/dt><dd>2012-10-26 17:11:53 U" }, "geometry": { "type": "Point", "coordinates": [ -155.388, 19.166, 0.0 ] } }
+,
+{ "type": "Feature", "id": 15976, "properties": { "Name": "M 2.9 - Kenai Peninsula, Alaska", "Descriptio": "<h2>M 2.9 - Kenai Peninsula, Alaska<\/h2><dl><dt>Time<\/dt><dd>2012-10-26 16:28:49" }, "geometry": { "type": "Point", "coordinates": [ -151.637, 60.768, 0.0 ] } }
+,
+{ "type": "Feature", "id": 15977, "properties": { "Name": "M 3.3 - off the coast of Oregon", "Descriptio": "<h2>M 3.3 - off the coast of Oregon<\/h2><dl><dt>Time<\/dt><dd>2012-10-26 14:18:20" }, "geometry": { "type": "Point", "coordinates": [ -126.895, 42.041, 0.0 ] } }
+,
+{ "type": "Feature", "id": 15978, "properties": { "Name": "M 2.7 - Hawaii region, Hawaii", "Descriptio": "<h2>M 2.7 - Hawaii region, Hawaii<\/h2><dl><dt>Time<\/dt><dd>2012-10-26 12:41:48 U" }, "geometry": { "type": "Point", "coordinates": [ -155.686, 19.881, 0.0 ] } }
+,
+{ "type": "Feature", "id": 15979, "properties": { "Name": "M 2.7 - northern Alaska", "Descriptio": "<h2>M 2.7 - northern Alaska<\/h2><dl><dt>Time<\/dt><dd>2012-10-26 12:01:05 UTC<\/dd" }, "geometry": { "type": "Point", "coordinates": [ -163.257, 67.345, 0.0 ] } }
+,
+{ "type": "Feature", "id": 15980, "properties": { "Name": "M 2.9 - Hawaii region, Hawaii", "Descriptio": "<h2>M 2.9 - Hawaii region, Hawaii<\/h2><dl><dt>Time<\/dt><dd>2012-10-26 11:38:31 U" }, "geometry": { "type": "Point", "coordinates": [ -155.244, 19.386, 0.0 ] } }
+,
+{ "type": "Feature", "id": 15981, "properties": { "Name": "M 4.5 - Hokkaido, Japan region", "Descriptio": "<h2>M 4.5 - Hokkaido, Japan region<\/h2><dl><dt>Time<\/dt><dd>2012-10-26 10:52:58" }, "geometry": { "type": "Point", "coordinates": [ 142.87, 43.304, 0.0 ] } }
+,
+{ "type": "Feature", "id": 15982, "properties": { "Name": "M 4.6 - near the east coast of Honshu, Japan", "Descriptio": "<h2>M 4.6 - near the east coast of Honshu, Japan<\/h2><dl><dt>Time<\/dt><dd>2012-1" }, "geometry": { "type": "Point", "coordinates": [ 142.027, 38.736, 0.0 ] } }
+,
+{ "type": "Feature", "id": 15983, "properties": { "Name": "M 3.3 - Southern Alaska", "Descriptio": "<h2>M 3.3 - Southern Alaska<\/h2><dl><dt>Time<\/dt><dd>2012-10-26 10:32:52 UTC<\/dd" }, "geometry": { "type": "Point", "coordinates": [ -152.25, 59.372, 0.0 ] } }
+,
+{ "type": "Feature", "id": 15984, "properties": { "Name": "M 4.1 - western Turkey", "Descriptio": "<h2>M 4.1 - western Turkey<\/h2><dl><dt>Time<\/dt><dd>2012-10-26 09:40:34 UTC<\/dd>" }, "geometry": { "type": "Point", "coordinates": [ 31.345, 36.586, 0.0 ] } }
+,
+{ "type": "Feature", "id": 15985, "properties": { "Name": "M 4.6 - offshore Michoacan, Mexico", "Descriptio": "<h2>M 4.6 - offshore Michoacan, Mexico<\/h2><dl><dt>Time<\/dt><dd>2012-10-26 08:42" }, "geometry": { "type": "Point", "coordinates": [ -103.613, 18.254, 0.0 ] } }
+,
+{ "type": "Feature", "id": 15986, "properties": { "Name": "M 3.0 - Virgin Islands region", "Descriptio": "<h2>M 3.0 - Virgin Islands region<\/h2><dl><dt>Time<\/dt><dd>2012-10-26 08:40:46 U" }, "geometry": { "type": "Point", "coordinates": [ -64.224, 19.383, 0.0 ] } }
+,
+{ "type": "Feature", "id": 15987, "properties": { "Name": "M 4.4 - near the east coast of Honshu, Japan", "Descriptio": "<h2>M 4.4 - near the east coast of Honshu, Japan<\/h2><dl><dt>Time<\/dt><dd>2012-1" }, "geometry": { "type": "Point", "coordinates": [ 140.94, 35.448, 0.0 ] } }
+,
+{ "type": "Feature", "id": 15988, "properties": { "Name": "M 4.7 - near the north coast of Papua, Indonesia", "Descriptio": "<h2>M 4.7 - near the north coast of Papua, Indonesia<\/h2><dl><dt>Time<\/dt><dd>20" }, "geometry": { "type": "Point", "coordinates": [ 132.875, -0.399, 0.0 ] } }
+,
+{ "type": "Feature", "id": 15989, "properties": { "Name": "M 2.8 - Fox Islands, Aleutian Islands, Alaska", "Descriptio": "<h2>M 2.8 - Fox Islands, Aleutian Islands, Alaska<\/h2><dl><dt>Time<\/dt><dd>2012-" }, "geometry": { "type": "Point", "coordinates": [ -171.412, 51.727, 0.0 ] } }
+,
+{ "type": "Feature", "id": 15990, "properties": { "Name": "M 4.1 - Fiji region", "Descriptio": "<h2>M 4.1 - Fiji region<\/h2><dl><dt>Time<\/dt><dd>2012-10-26 04:48:39 UTC<\/dd><dd" }, "geometry": { "type": "Point", "coordinates": [ -178.546, -17.561, 0.0 ] } }
+,
+{ "type": "Feature", "id": 15991, "properties": { "Name": "M 4.0 - Myanmar", "Descriptio": "<h2>M 4.0 - Myanmar<\/h2><dl><dt>Time<\/dt><dd>2012-10-26 04:42:30 UTC<\/dd><dd>201" }, "geometry": { "type": "Point", "coordinates": [ 96.116, 24.869, 0.0 ] } }
+,
+{ "type": "Feature", "id": 15992, "properties": { "Name": "M 2.5 - New York", "Descriptio": "<h2>M 2.5 - New York<\/h2><dl><dt>Time<\/dt><dd>2012-10-26 04:34:58 UTC<\/dd><dd>20" }, "geometry": { "type": "Point", "coordinates": [ -78.634, 43.356, 0.0 ] } }
+,
+{ "type": "Feature", "id": 15993, "properties": { "Name": "M 4.5 - Fiji region", "Descriptio": "<h2>M 4.5 - Fiji region<\/h2><dl><dt>Time<\/dt><dd>2012-10-26 04:24:29 UTC<\/dd><dd" }, "geometry": { "type": "Point", "coordinates": [ -178.668, -17.763, 0.0 ] } }
+,
+{ "type": "Feature", "id": 15994, "properties": { "Name": "M 4.6 - South Sandwich Islands region", "Descriptio": "<h2>M 4.6 - South Sandwich Islands region<\/h2><dl><dt>Time<\/dt><dd>2012-10-26 04" }, "geometry": { "type": "Point", "coordinates": [ -24.713, -57.786, 0.0 ] } }
+,
+{ "type": "Feature", "id": 15995, "properties": { "Name": "M 4.0 - southern Xinjiang, China", "Descriptio": "<h2>M 4.0 - southern Xinjiang, China<\/h2><dl><dt>Time<\/dt><dd>2012-10-26 01:52:5" }, "geometry": { "type": "Point", "coordinates": [ 75.838, 39.881, 0.0 ] } }
+,
+{ "type": "Feature", "id": 15996, "properties": { "Name": "M 4.2 - Vanuatu", "Descriptio": "<h2>M 4.2 - Vanuatu<\/h2><dl><dt>Time<\/dt><dd>2012-10-26 01:19:35 UTC<\/dd><dd>201" }, "geometry": { "type": "Point", "coordinates": [ 166.647, -13.555, 0.0 ] } }
+,
+{ "type": "Feature", "id": 15997, "properties": { "Name": "M 4.7 - Hokkaido, Japan region", "Descriptio": "<h2>M 4.7 - Hokkaido, Japan region<\/h2><dl><dt>Time<\/dt><dd>2012-10-26 00:33:14" }, "geometry": { "type": "Point", "coordinates": [ 142.279, 41.035, 0.0 ] } }
+,
+{ "type": "Feature", "id": 15998, "properties": { "Name": "M 2.8 - Andreanof Islands, Aleutian Islands, Alaska", "Descriptio": "<h2>M 2.8 - Andreanof Islands, Aleutian Islands, Alaska<\/h2><dl><dt>Time<\/dt><dd" }, "geometry": { "type": "Point", "coordinates": [ -174.28, 52.448, 0.0 ] } }
+,
+{ "type": "Feature", "id": 15999, "properties": { "Name": "M 5.3 - southern Italy", "Descriptio": "<h2>M 5.3 - southern Italy<\/h2><dl><dt>Time<\/dt><dd>2012-10-25 23:05:24 UTC<\/dd>" }, "geometry": { "type": "Point", "coordinates": [ 16.01, 39.88, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16000, "properties": { "Name": "M 4.8 - Philippine Islands region", "Descriptio": "<h2>M 4.8 - Philippine Islands region<\/h2><dl><dt>Time<\/dt><dd>2012-10-25 22:58:" }, "geometry": { "type": "Point", "coordinates": [ 126.172, 11.233, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16001, "properties": { "Name": "M 4.7 - western Indian-Antarctic Ridge", "Descriptio": "<h2>M 4.7 - western Indian-Antarctic Ridge<\/h2><dl><dt>Time<\/dt><dd>2012-10-25 2" }, "geometry": { "type": "Point", "coordinates": [ 114.063, -50.186, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16002, "properties": { "Name": "M 2.6 - Northern California", "Descriptio": "<h2>M 2.6 - Northern California<\/h2><dl><dt>Time<\/dt><dd>2012-10-25 22:11:05 UTC" }, "geometry": { "type": "Point", "coordinates": [ -121.365, 37.733, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16003, "properties": { "Name": "M 2.7 - Andreanof Islands, Aleutian Islands, Alaska", "Descriptio": "<h2>M 2.7 - Andreanof Islands, Aleutian Islands, Alaska<\/h2><dl><dt>Time<\/dt><dd" }, "geometry": { "type": "Point", "coordinates": [ -178.211, 51.453, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16004, "properties": { "Name": "M 4.2 - offshore El Salvador", "Descriptio": "<h2>M 4.2 - offshore El Salvador<\/h2><dl><dt>Time<\/dt><dd>2012-10-25 21:24:11 UT" }, "geometry": { "type": "Point", "coordinates": [ -88.328, 13.161, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16005, "properties": { "Name": "M 3.2 - Dominican Republic region", "Descriptio": "<h2>M 3.2 - Dominican Republic region<\/h2><dl><dt>Time<\/dt><dd>2012-10-25 20:50:" }, "geometry": { "type": "Point", "coordinates": [ -68.919, 17.552, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16006, "properties": { "Name": "M 5.4 - northern Peru", "Descriptio": "<h2>M 5.4 - northern Peru<\/h2><dl><dt>Time<\/dt><dd>2012-10-25 20:49:35 UTC<\/dd><" }, "geometry": { "type": "Point", "coordinates": [ -76.074, -5.919, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16007, "properties": { "Name": "M 3.4 - Dominican Republic region", "Descriptio": "<h2>M 3.4 - Dominican Republic region<\/h2><dl><dt>Time<\/dt><dd>2012-10-25 20:26:" }, "geometry": { "type": "Point", "coordinates": [ -68.814, 17.581, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16008, "properties": { "Name": "M 4.1 - Coquimbo, Chile", "Descriptio": "<h2>M 4.1 - Coquimbo, Chile<\/h2><dl><dt>Time<\/dt><dd>2012-10-25 19:25:41 UTC<\/dd" }, "geometry": { "type": "Point", "coordinates": [ -70.968, -29.568, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16009, "properties": { "Name": "M 4.7 - Ryukyu Islands, Japan", "Descriptio": "<h2>M 4.7 - Ryukyu Islands, Japan<\/h2><dl><dt>Time<\/dt><dd>2012-10-25 19:10:49 U" }, "geometry": { "type": "Point", "coordinates": [ 128.694, 28.66, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16010, "properties": { "Name": "M 5.0 - Papua, Indonesia", "Descriptio": "<h2>M 5.0 - Papua, Indonesia<\/h2><dl><dt>Time<\/dt><dd>2012-10-25 18:57:06 UTC<\/d" }, "geometry": { "type": "Point", "coordinates": [ 140.348, -3.907, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16011, "properties": { "Name": "M 5.3 - Fiji region", "Descriptio": "<h2>M 5.3 - Fiji region<\/h2><dl><dt>Time<\/dt><dd>2012-10-25 18:40:38 UTC<\/dd><dd" }, "geometry": { "type": "Point", "coordinates": [ -178.259, -19.857, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16012, "properties": { "Name": "M 4.8 - Kyushu, Japan", "Descriptio": "<h2>M 4.8 - Kyushu, Japan<\/h2><dl><dt>Time<\/dt><dd>2012-10-25 16:54:16 UTC<\/dd><" }, "geometry": { "type": "Point", "coordinates": [ 131.611, 31.926, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16013, "properties": { "Name": "M 4.4 - Tonga", "Descriptio": "<h2>M 4.4 - Tonga<\/h2><dl><dt>Time<\/dt><dd>2012-10-25 15:59:40 UTC<\/dd><dd>2012-" }, "geometry": { "type": "Point", "coordinates": [ -174.796, -16.203, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16014, "properties": { "Name": "M 4.7 - Atacama, Chile", "Descriptio": "<h2>M 4.7 - Atacama, Chile<\/h2><dl><dt>Time<\/dt><dd>2012-10-25 14:26:21 UTC<\/dd>" }, "geometry": { "type": "Point", "coordinates": [ -70.093, -25.925, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16015, "properties": { "Name": "M 4.0 - Izu Islands, Japan region", "Descriptio": "<h2>M 4.0 - Izu Islands, Japan region<\/h2><dl><dt>Time<\/dt><dd>2012-10-25 13:23:" }, "geometry": { "type": "Point", "coordinates": [ 141.667, 32.583, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16016, "properties": { "Name": "M 3.6 - Central Alaska", "Descriptio": "<h2>M 3.6 - Central Alaska<\/h2><dl><dt>Time<\/dt><dd>2012-10-25 12:57:35 UTC<\/dd>" }, "geometry": { "type": "Point", "coordinates": [ -148.368, 63.785, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16017, "properties": { "Name": "M 4.6 - Ryukyu Islands, Japan", "Descriptio": "<h2>M 4.6 - Ryukyu Islands, Japan<\/h2><dl><dt>Time<\/dt><dd>2012-10-25 12:48:57 U" }, "geometry": { "type": "Point", "coordinates": [ 128.565, 28.7, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16018, "properties": { "Name": "M 4.6 - off the east coast of the Kamchatka Peninsula, Russia", "Descriptio": "<h2>M 4.6 - off the east coast of the Kamchatka Peninsula, Russia<\/h2><dl><dt>Ti" }, "geometry": { "type": "Point", "coordinates": [ 159.42, 51.358, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16019, "properties": { "Name": "M 4.6 - western Greenland", "Descriptio": "<h2>M 4.6 - western Greenland<\/h2><dl><dt>Time<\/dt><dd>2012-10-25 11:19:54 UTC<\/" }, "geometry": { "type": "Point", "coordinates": [ -43.983, 60.659, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16020, "properties": { "Name": "M 2.8 - Southern Alaska", "Descriptio": "<h2>M 2.8 - Southern Alaska<\/h2><dl><dt>Time<\/dt><dd>2012-10-25 10:42:29 UTC<\/dd" }, "geometry": { "type": "Point", "coordinates": [ -153.06, 60.322, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16021, "properties": { "Name": "M 5.6 - near the east coast of Honshu, Japan", "Descriptio": "<h2>M 5.6 - near the east coast of Honshu, Japan<\/h2><dl><dt>Time<\/dt><dd>2012-1" }, "geometry": { "type": "Point", "coordinates": [ 141.699, 38.306, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16022, "properties": { "Name": "M 5.0 - Taiwan", "Descriptio": "<h2>M 5.0 - Taiwan<\/h2><dl><dt>Time<\/dt><dd>2012-10-25 10:31:19 UTC<\/dd><dd>2012" }, "geometry": { "type": "Point", "coordinates": [ 120.558, 22.417, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16023, "properties": { "Name": "M 4.6 - South Sandwich Islands region", "Descriptio": "<h2>M 4.6 - South Sandwich Islands region<\/h2><dl><dt>Time<\/dt><dd>2012-10-25 10" }, "geometry": { "type": "Point", "coordinates": [ -27.019, -55.975, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16024, "properties": { "Name": "M 5.0 - Minahasa, Sulawesi, Indonesia", "Descriptio": "<h2>M 5.0 - Minahasa, Sulawesi, Indonesia<\/h2><dl><dt>Time<\/dt><dd>2012-10-25 10" }, "geometry": { "type": "Point", "coordinates": [ 124.55, 0.69, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16025, "properties": { "Name": "M 4.3 - Fiji region", "Descriptio": "<h2>M 4.3 - Fiji region<\/h2><dl><dt>Time<\/dt><dd>2012-10-25 09:25:59 UTC<\/dd><dd" }, "geometry": { "type": "Point", "coordinates": [ -178.42, -18.003, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16026, "properties": { "Name": "M 4.3 - Ryukyu Islands, Japan", "Descriptio": "<h2>M 4.3 - Ryukyu Islands, Japan<\/h2><dl><dt>Time<\/dt><dd>2012-10-25 08:27:08 U" }, "geometry": { "type": "Point", "coordinates": [ 128.611, 28.612, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16027, "properties": { "Name": "M 4.3 - Bali Sea", "Descriptio": "<h2>M 4.3 - Bali Sea<\/h2><dl><dt>Time<\/dt><dd>2012-10-25 08:05:15 UTC<\/dd><dd>20" }, "geometry": { "type": "Point", "coordinates": [ 117.691, -7.844, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16028, "properties": { "Name": "M 4.0 - southern Xinjiang, China", "Descriptio": "<h2>M 4.0 - southern Xinjiang, China<\/h2><dl><dt>Time<\/dt><dd>2012-10-25 07:05:4" }, "geometry": { "type": "Point", "coordinates": [ 78.353, 39.718, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16029, "properties": { "Name": "M 2.6 - Kenai Peninsula, Alaska", "Descriptio": "<h2>M 2.6 - Kenai Peninsula, Alaska<\/h2><dl><dt>Time<\/dt><dd>2012-10-25 07:04:39" }, "geometry": { "type": "Point", "coordinates": [ -151.942, 60.681, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16030, "properties": { "Name": "M 4.2 - Banda Sea", "Descriptio": "<h2>M 4.2 - Banda Sea<\/h2><dl><dt>Time<\/dt><dd>2012-10-25 06:10:20 UTC<\/dd><dd>2" }, "geometry": { "type": "Point", "coordinates": [ 124.238, -7.971, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16031, "properties": { "Name": "M 4.6 - Bougainville region, Papua New Guinea", "Descriptio": "<h2>M 4.6 - Bougainville region, Papua New Guinea<\/h2><dl><dt>Time<\/dt><dd>2012-" }, "geometry": { "type": "Point", "coordinates": [ 155.484, -6.966, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16032, "properties": { "Name": "M 4.8 - Valparaiso, Chile", "Descriptio": "<h2>M 4.8 - Valparaiso, Chile<\/h2><dl><dt>Time<\/dt><dd>2012-10-25 05:37:58 UTC<\/" }, "geometry": { "type": "Point", "coordinates": [ -70.165, -32.773, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16033, "properties": { "Name": "M 4.0 - south of Java, Indonesia", "Descriptio": "<h2>M 4.0 - south of Java, Indonesia<\/h2><dl><dt>Time<\/dt><dd>2012-10-25 05:28:1" }, "geometry": { "type": "Point", "coordinates": [ 113.469, -10.997, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16034, "properties": { "Name": "M 2.5 - Virgin Islands region", "Descriptio": "<h2>M 2.5 - Virgin Islands region<\/h2><dl><dt>Time<\/dt><dd>2012-10-25 04:35:39 U" }, "geometry": { "type": "Point", "coordinates": [ -64.243, 18.916, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16035, "properties": { "Name": "M 4.4 - off the east coast of Honshu, Japan", "Descriptio": "<h2>M 4.4 - off the east coast of Honshu, Japan<\/h2><dl><dt>Time<\/dt><dd>2012-10" }, "geometry": { "type": "Point", "coordinates": [ 142.299, 37.612, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16036, "properties": { "Name": "M 4.4 - New Britain region, Papua New Guinea", "Descriptio": "<h2>M 4.4 - New Britain region, Papua New Guinea<\/h2><dl><dt>Time<\/dt><dd>2012-1" }, "geometry": { "type": "Point", "coordinates": [ 150.99, -6.266, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16037, "properties": { "Name": "M 2.8 - Andreanof Islands, Aleutian Islands, Alaska", "Descriptio": "<h2>M 2.8 - Andreanof Islands, Aleutian Islands, Alaska<\/h2><dl><dt>Time<\/dt><dd" }, "geometry": { "type": "Point", "coordinates": [ -178.097, 51.63, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16038, "properties": { "Name": "M 4.6 - Banda Sea", "Descriptio": "<h2>M 4.6 - Banda Sea<\/h2><dl><dt>Time<\/dt><dd>2012-10-25 01:39:42 UTC<\/dd><dd>2" }, "geometry": { "type": "Point", "coordinates": [ 130.218, -6.405, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16039, "properties": { "Name": "M 2.9 - Gulf of Alaska", "Descriptio": "<h2>M 2.9 - Gulf of Alaska<\/h2><dl><dt>Time<\/dt><dd>2012-10-25 01:21:58 UTC<\/dd>" }, "geometry": { "type": "Point", "coordinates": [ -147.476, 59.833, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16040, "properties": { "Name": "M 3.2 - Southern Alaska", "Descriptio": "<h2>M 3.2 - Southern Alaska<\/h2><dl><dt>Time<\/dt><dd>2012-10-25 01:11:31 UTC<\/dd" }, "geometry": { "type": "Point", "coordinates": [ -155.575, 59.48, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16041, "properties": { "Name": "M 2.8 - Central Alaska", "Descriptio": "<h2>M 2.8 - Central Alaska<\/h2><dl><dt>Time<\/dt><dd>2012-10-25 00:42:32 UTC<\/dd>" }, "geometry": { "type": "Point", "coordinates": [ -148.811, 63.692, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16042, "properties": { "Name": "M 4.0 - Hindu Kush region, Afghanistan", "Descriptio": "<h2>M 4.0 - Hindu Kush region, Afghanistan<\/h2><dl><dt>Time<\/dt><dd>2012-10-25 0" }, "geometry": { "type": "Point", "coordinates": [ 73.208, 36.993, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16043, "properties": { "Name": "M 2.9 - Alaska Peninsula", "Descriptio": "<h2>M 2.9 - Alaska Peninsula<\/h2><dl><dt>Time<\/dt><dd>2012-10-24 23:32:38 UTC<\/d" }, "geometry": { "type": "Point", "coordinates": [ -156.063, 57.955, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16044, "properties": { "Name": "M 4.6 - Minahasa, Sulawesi, Indonesia", "Descriptio": "<h2>M 4.6 - Minahasa, Sulawesi, Indonesia<\/h2><dl><dt>Time<\/dt><dd>2012-10-24 22" }, "geometry": { "type": "Point", "coordinates": [ 123.579, 0.115, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16045, "properties": { "Name": "M 4.4 - Salta, Argentina", "Descriptio": "<h2>M 4.4 - Salta, Argentina<\/h2><dl><dt>Time<\/dt><dd>2012-10-24 22:05:50 UTC<\/d" }, "geometry": { "type": "Point", "coordinates": [ -63.742, -22.787, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16046, "properties": { "Name": "M 4.0 - offshore Oaxaca, Mexico", "Descriptio": "<h2>M 4.0 - offshore Oaxaca, Mexico<\/h2><dl><dt>Time<\/dt><dd>2012-10-24 21:32:16" }, "geometry": { "type": "Point", "coordinates": [ -97.483, 15.61, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16047, "properties": { "Name": "M 4.7 - New Britain region, Papua New Guinea", "Descriptio": "<h2>M 4.7 - New Britain region, Papua New Guinea<\/h2><dl><dt>Time<\/dt><dd>2012-1" }, "geometry": { "type": "Point", "coordinates": [ 151.851, -5.406, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16048, "properties": { "Name": "M 4.0 - Arunachal Pradesh, India", "Descriptio": "<h2>M 4.0 - Arunachal Pradesh, India<\/h2><dl><dt>Time<\/dt><dd>2012-10-24 21:07:4" }, "geometry": { "type": "Point", "coordinates": [ 94.39, 28.858, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16049, "properties": { "Name": "M 2.5 - Northern California", "Descriptio": "<h2>M 2.5 - Northern California<\/h2><dl><dt>Time<\/dt><dd>2012-10-24 18:29:06 UTC" }, "geometry": { "type": "Point", "coordinates": [ -123.156, 39.264, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16050, "properties": { "Name": "M 5.4 - Cayman Islands region", "Descriptio": "<h2>M 5.4 - Cayman Islands region<\/h2><dl><dt>Time<\/dt><dd>2012-10-24 17:55:59 U" }, "geometry": { "type": "Point", "coordinates": [ -81.692, 17.785, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16051, "properties": { "Name": "M 2.6 - southern Idaho", "Descriptio": "<h2>M 2.6 - southern Idaho<\/h2><dl><dt>Time<\/dt><dd>2012-10-24 16:03:57 UTC<\/dd>" }, "geometry": { "type": "Point", "coordinates": [ -114.564, 44.956, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16052, "properties": { "Name": "M 3.4 - Fox Islands, Aleutian Islands, Alaska", "Descriptio": "<h2>M 3.4 - Fox Islands, Aleutian Islands, Alaska<\/h2><dl><dt>Time<\/dt><dd>2012-" }, "geometry": { "type": "Point", "coordinates": [ -170.74, 53.103, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16053, "properties": { "Name": "M 4.5 - northern Yukon Territory, Canada", "Descriptio": "<h2>M 4.5 - northern Yukon Territory, Canada<\/h2><dl><dt>Time<\/dt><dd>2012-10-24" }, "geometry": { "type": "Point", "coordinates": [ -134.173, 65.242, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16054, "properties": { "Name": "M 4.5 - Vanuatu", "Descriptio": "<h2>M 4.5 - Vanuatu<\/h2><dl><dt>Time<\/dt><dd>2012-10-24 12:59:25 UTC<\/dd><dd>201" }, "geometry": { "type": "Point", "coordinates": [ 167.501, -17.424, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16055, "properties": { "Name": "M 2.9 - Puerto Rico region", "Descriptio": "<h2>M 2.9 - Puerto Rico region<\/h2><dl><dt>Time<\/dt><dd>2012-10-24 12:54:36 UTC<" }, "geometry": { "type": "Point", "coordinates": [ -65.423, 18.02, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16056, "properties": { "Name": "M 4.5 - Antofagasta, Chile", "Descriptio": "<h2>M 4.5 - Antofagasta, Chile<\/h2><dl><dt>Time<\/dt><dd>2012-10-24 11:54:04 UTC<" }, "geometry": { "type": "Point", "coordinates": [ -68.585, -23.022, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16057, "properties": { "Name": "M 2.5 - Fox Islands, Aleutian Islands, Alaska", "Descriptio": "<h2>M 2.5 - Fox Islands, Aleutian Islands, Alaska<\/h2><dl><dt>Time<\/dt><dd>2012-" }, "geometry": { "type": "Point", "coordinates": [ -168.354, 52.301, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16058, "properties": { "Name": "M 2.7 - Hawaii region, Hawaii", "Descriptio": "<h2>M 2.7 - Hawaii region, Hawaii<\/h2><dl><dt>Time<\/dt><dd>2012-10-24 11:29:59 U" }, "geometry": { "type": "Point", "coordinates": [ -155.78, 19.498, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16059, "properties": { "Name": "M 2.6 - Gulf of Alaska", "Descriptio": "<h2>M 2.6 - Gulf of Alaska<\/h2><dl><dt>Time<\/dt><dd>2012-10-24 11:20:42 UTC<\/dd>" }, "geometry": { "type": "Point", "coordinates": [ -147.401, 59.869, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16060, "properties": { "Name": "M 2.5 - Andreanof Islands, Aleutian Islands, Alaska", "Descriptio": "<h2>M 2.5 - Andreanof Islands, Aleutian Islands, Alaska<\/h2><dl><dt>Time<\/dt><dd" }, "geometry": { "type": "Point", "coordinates": [ -179.976, 51.602, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16061, "properties": { "Name": "M 2.5 - Hawaii region, Hawaii", "Descriptio": "<h2>M 2.5 - Hawaii region, Hawaii<\/h2><dl><dt>Time<\/dt><dd>2012-10-24 10:00:49 U" }, "geometry": { "type": "Point", "coordinates": [ -155.237, 19.368, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16062, "properties": { "Name": "M 3.0 - Gulf of Alaska", "Descriptio": "<h2>M 3.0 - Gulf of Alaska<\/h2><dl><dt>Time<\/dt><dd>2012-10-24 09:33:44 UTC<\/dd>" }, "geometry": { "type": "Point", "coordinates": [ -147.44, 59.845, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16063, "properties": { "Name": "M 3.1 - Andreanof Islands, Aleutian Islands, Alaska", "Descriptio": "<h2>M 3.1 - Andreanof Islands, Aleutian Islands, Alaska<\/h2><dl><dt>Time<\/dt><dd" }, "geometry": { "type": "Point", "coordinates": [ -177.772, 51.294, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16064, "properties": { "Name": "M 2.9 - Southern Alaska", "Descriptio": "<h2>M 2.9 - Southern Alaska<\/h2><dl><dt>Time<\/dt><dd>2012-10-24 07:59:03 UTC<\/dd" }, "geometry": { "type": "Point", "coordinates": [ -148.067, 61.562, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16065, "properties": { "Name": "M 4.6 - near the east coast of Honshu, Japan", "Descriptio": "<h2>M 4.6 - near the east coast of Honshu, Japan<\/h2><dl><dt>Time<\/dt><dd>2012-1" }, "geometry": { "type": "Point", "coordinates": [ 140.752, 36.474, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16066, "properties": { "Name": "M 4.7 - Unimak Island region, Alaska", "Descriptio": "<h2>M 4.7 - Unimak Island region, Alaska<\/h2><dl><dt>Time<\/dt><dd>2012-10-24 06:" }, "geometry": { "type": "Point", "coordinates": [ -163.177, 54.38, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16067, "properties": { "Name": "M 3.0 - Southern Alaska", "Descriptio": "<h2>M 3.0 - Southern Alaska<\/h2><dl><dt>Time<\/dt><dd>2012-10-24 05:43:45 UTC<\/dd" }, "geometry": { "type": "Point", "coordinates": [ -152.353, 59.639, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16068, "properties": { "Name": "M 4.5 - New Britain region, Papua New Guinea", "Descriptio": "<h2>M 4.5 - New Britain region, Papua New Guinea<\/h2><dl><dt>Time<\/dt><dd>2012-1" }, "geometry": { "type": "Point", "coordinates": [ 148.002, -6.584, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16069, "properties": { "Name": "M 4.8 - offshore Coquimbo, Chile", "Descriptio": "<h2>M 4.8 - offshore Coquimbo, Chile<\/h2><dl><dt>Time<\/dt><dd>2012-10-24 03:46:3" }, "geometry": { "type": "Point", "coordinates": [ -72.069, -31.698, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16070, "properties": { "Name": "M 2.5 - Southern Alaska", "Descriptio": "<h2>M 2.5 - Southern Alaska<\/h2><dl><dt>Time<\/dt><dd>2012-10-24 03:08:19 UTC<\/dd" }, "geometry": { "type": "Point", "coordinates": [ -149.957, 61.843, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16071, "properties": { "Name": "M 3.1 - Fox Islands, Aleutian Islands, Alaska", "Descriptio": "<h2>M 3.1 - Fox Islands, Aleutian Islands, Alaska<\/h2><dl><dt>Time<\/dt><dd>2012-" }, "geometry": { "type": "Point", "coordinates": [ -168.942, 52.619, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16072, "properties": { "Name": "M 4.5 - off the coast of Costa Rica", "Descriptio": "<h2>M 4.5 - off the coast of Costa Rica<\/h2><dl><dt>Time<\/dt><dd>2012-10-24 01:5" }, "geometry": { "type": "Point", "coordinates": [ -85.584, 9.945, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16073, "properties": { "Name": "M 4.3 - offshore Oaxaca, Mexico", "Descriptio": "<h2>M 4.3 - offshore Oaxaca, Mexico<\/h2><dl><dt>Time<\/dt><dd>2012-10-24 01:36:28" }, "geometry": { "type": "Point", "coordinates": [ -97.504, 15.548, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16074, "properties": { "Name": "M 4.5 - Gulf of Aden", "Descriptio": "<h2>M 4.5 - Gulf of Aden<\/h2><dl><dt>Time<\/dt><dd>2012-10-24 01:08:48 UTC<\/dd><d" }, "geometry": { "type": "Point", "coordinates": [ 50.838, 13.225, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16075, "properties": { "Name": "M 6.5 - Costa Rica", "Descriptio": "<h2>M 6.5 - Costa Rica<\/h2><dl><dt>Time<\/dt><dd>2012-10-24 00:45:32 UTC<\/dd><dd>" }, "geometry": { "type": "Point", "coordinates": [ -85.298, 10.086, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16076, "properties": { "Name": "M 3.4 - Virgin Islands region", "Descriptio": "<h2>M 3.4 - Virgin Islands region<\/h2><dl><dt>Time<\/dt><dd>2012-10-24 00:35:41 U" }, "geometry": { "type": "Point", "coordinates": [ -64.265, 19.663, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16077, "properties": { "Name": "M 4.6 - near the north coast of New Guinea, Papua New Guinea", "Descriptio": "<h2>M 4.6 - near the north coast of New Guinea, Papua New Guinea<\/h2><dl><dt>Tim" }, "geometry": { "type": "Point", "coordinates": [ 145.243, -4.752, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16078, "properties": { "Name": "M 4.2 - southeast of the Ryukyu Islands, Japan", "Descriptio": "<h2>M 4.2 - southeast of the Ryukyu Islands, Japan<\/h2><dl><dt>Time<\/dt><dd>2012" }, "geometry": { "type": "Point", "coordinates": [ 129.133, 25.943, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16079, "properties": { "Name": "M 4.2 - Carlsberg Ridge", "Descriptio": "<h2>M 4.2 - Carlsberg Ridge<\/h2><dl><dt>Time<\/dt><dd>2012-10-23 22:58:20 UTC<\/dd" }, "geometry": { "type": "Point", "coordinates": [ 67.551, -0.863, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16080, "properties": { "Name": "M 4.5 - Fiji region", "Descriptio": "<h2>M 4.5 - Fiji region<\/h2><dl><dt>Time<\/dt><dd>2012-10-23 22:15:25 UTC<\/dd><dd" }, "geometry": { "type": "Point", "coordinates": [ -177.818, -18.372, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16081, "properties": { "Name": "M 2.9 - Andreanof Islands, Aleutian Islands, Alaska", "Descriptio": "<h2>M 2.9 - Andreanof Islands, Aleutian Islands, Alaska<\/h2><dl><dt>Time<\/dt><dd" }, "geometry": { "type": "Point", "coordinates": [ -178.004, 51.61, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16082, "properties": { "Name": "M 4.7 - near the east coast of Honshu, Japan", "Descriptio": "<h2>M 4.7 - near the east coast of Honshu, Japan<\/h2><dl><dt>Time<\/dt><dd>2012-1" }, "geometry": { "type": "Point", "coordinates": [ 142.293, 38.75, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16083, "properties": { "Name": "M 2.6 - Andreanof Islands, Aleutian Islands, Alaska", "Descriptio": "<h2>M 2.6 - Andreanof Islands, Aleutian Islands, Alaska<\/h2><dl><dt>Time<\/dt><dd" }, "geometry": { "type": "Point", "coordinates": [ -178.379, 51.553, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16084, "properties": { "Name": "M 4.6 - off the west coast of northern Sumatra", "Descriptio": "<h2>M 4.6 - off the west coast of northern Sumatra<\/h2><dl><dt>Time<\/dt><dd>2012" }, "geometry": { "type": "Point", "coordinates": [ 92.568, 2.191, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16085, "properties": { "Name": "M 5.1 - eastern New Guinea region, Papua New Guinea", "Descriptio": "<h2>M 5.1 - eastern New Guinea region, Papua New Guinea<\/h2><dl><dt>Time<\/dt><dd" }, "geometry": { "type": "Point", "coordinates": [ 147.873, -6.579, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16086, "properties": { "Name": "M 4.6 - eastern New Guinea region, Papua New Guinea", "Descriptio": "<h2>M 4.6 - eastern New Guinea region, Papua New Guinea<\/h2><dl><dt>Time<\/dt><dd" }, "geometry": { "type": "Point", "coordinates": [ 147.961, -6.67, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16087, "properties": { "Name": "M 4.2 - south of Java, Indonesia", "Descriptio": "<h2>M 4.2 - south of Java, Indonesia<\/h2><dl><dt>Time<\/dt><dd>2012-10-23 16:34:1" }, "geometry": { "type": "Point", "coordinates": [ 113.672, -10.788, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16088, "properties": { "Name": "M 4.1 - Caucasus region, Russia", "Descriptio": "<h2>M 4.1 - Caucasus region, Russia<\/h2><dl><dt>Time<\/dt><dd>2012-10-23 16:17:58" }, "geometry": { "type": "Point", "coordinates": [ 47.704, 42.046, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16089, "properties": { "Name": "M 4.4 - Vanuatu", "Descriptio": "<h2>M 4.4 - Vanuatu<\/h2><dl><dt>Time<\/dt><dd>2012-10-23 15:45:15 UTC<\/dd><dd>201" }, "geometry": { "type": "Point", "coordinates": [ 166.222, -15.237, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16090, "properties": { "Name": "M 4.5 - Mindanao, Philippines", "Descriptio": "<h2>M 4.5 - Mindanao, Philippines<\/h2><dl><dt>Time<\/dt><dd>2012-10-23 15:37:00 U" }, "geometry": { "type": "Point", "coordinates": [ 126.38, 9.652, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16091, "properties": { "Name": "M 3.4 - Andreanof Islands, Aleutian Islands, Alaska", "Descriptio": "<h2>M 3.4 - Andreanof Islands, Aleutian Islands, Alaska<\/h2><dl><dt>Time<\/dt><dd" }, "geometry": { "type": "Point", "coordinates": [ -177.76, 51.332, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16092, "properties": { "Name": "M 4.8 - Greece", "Descriptio": "<h2>M 4.8 - Greece<\/h2><dl><dt>Time<\/dt><dd>2012-10-23 15:20:42 UTC<\/dd><dd>2012" }, "geometry": { "type": "Point", "coordinates": [ 20.504, 38.915, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16093, "properties": { "Name": "M 4.6 - Mindanao, Philippines", "Descriptio": "<h2>M 4.6 - Mindanao, Philippines<\/h2><dl><dt>Time<\/dt><dd>2012-10-23 15:17:24 U" }, "geometry": { "type": "Point", "coordinates": [ 126.336, 9.704, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16094, "properties": { "Name": "M 4.2 - Afghanistan-Pakistan border region", "Descriptio": "<h2>M 4.2 - Afghanistan-Pakistan border region<\/h2><dl><dt>Time<\/dt><dd>2012-10-" }, "geometry": { "type": "Point", "coordinates": [ 66.562, 29.792, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16095, "properties": { "Name": "M 4.0 - New Britain region, Papua New Guinea", "Descriptio": "<h2>M 4.0 - New Britain region, Papua New Guinea<\/h2><dl><dt>Time<\/dt><dd>2012-1" }, "geometry": { "type": "Point", "coordinates": [ 151.664, -5.951, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16096, "properties": { "Name": "M 3.2 - Gulf of Alaska", "Descriptio": "<h2>M 3.2 - Gulf of Alaska<\/h2><dl><dt>Time<\/dt><dd>2012-10-23 12:43:48 UTC<\/dd>" }, "geometry": { "type": "Point", "coordinates": [ -150.632, 58.469, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16097, "properties": { "Name": "M 2.7 - Southern Alaska", "Descriptio": "<h2>M 2.7 - Southern Alaska<\/h2><dl><dt>Time<\/dt><dd>2012-10-23 11:28:39 UTC<\/dd" }, "geometry": { "type": "Point", "coordinates": [ -152.466, 60.187, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16098, "properties": { "Name": "M 5.1 - Antofagasta, Chile", "Descriptio": "<h2>M 5.1 - Antofagasta, Chile<\/h2><dl><dt>Time<\/dt><dd>2012-10-23 10:45:20 UTC<" }, "geometry": { "type": "Point", "coordinates": [ -70.55, -25.767, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16099, "properties": { "Name": "M 5.8 - southeast of the Loyalty Islands", "Descriptio": "<h2>M 5.8 - southeast of the Loyalty Islands<\/h2><dl><dt>Time<\/dt><dd>2012-10-23" }, "geometry": { "type": "Point", "coordinates": [ 171.691, -22.312, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16100, "properties": { "Name": "M 5.6 - west of Macquarie Island", "Descriptio": "<h2>M 5.6 - west of Macquarie Island<\/h2><dl><dt>Time<\/dt><dd>2012-10-23 09:33:1" }, "geometry": { "type": "Point", "coordinates": [ 148.206, -57.512, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16101, "properties": { "Name": "M 5.9 - Izu Islands, Japan region", "Descriptio": "<h2>M 5.9 - Izu Islands, Japan region<\/h2><dl><dt>Time<\/dt><dd>2012-10-23 08:53:" }, "geometry": { "type": "Point", "coordinates": [ 139.251, 29.057, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16102, "properties": { "Name": "M 3.0 - Virgin Islands region", "Descriptio": "<h2>M 3.0 - Virgin Islands region<\/h2><dl><dt>Time<\/dt><dd>2012-10-23 08:22:15 U" }, "geometry": { "type": "Point", "coordinates": [ -65.004, 18.889, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16103, "properties": { "Name": "M 3.7 - offshore Northern California", "Descriptio": "<h2>M 3.7 - offshore Northern California<\/h2><dl><dt>Time<\/dt><dd>2012-10-23 07:" }, "geometry": { "type": "Point", "coordinates": [ -124.532, 40.299, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16104, "properties": { "Name": "M 4.4 - Pagan region, Northern Mariana Islands", "Descriptio": "<h2>M 4.4 - Pagan region, Northern Mariana Islands<\/h2><dl><dt>Time<\/dt><dd>2012" }, "geometry": { "type": "Point", "coordinates": [ 146.613, 18.186, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16105, "properties": { "Name": "M 2.7 - Southern Alaska", "Descriptio": "<h2>M 2.7 - Southern Alaska<\/h2><dl><dt>Time<\/dt><dd>2012-10-23 05:52:21 UTC<\/dd" }, "geometry": { "type": "Point", "coordinates": [ -149.98, 61.428, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16106, "properties": { "Name": "M 4.4 - Kepulauan Alor, Indonesia", "Descriptio": "<h2>M 4.4 - Kepulauan Alor, Indonesia<\/h2><dl><dt>Time<\/dt><dd>2012-10-23 05:38:" }, "geometry": { "type": "Point", "coordinates": [ 124.192, -8.992, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16107, "properties": { "Name": "M 4.6 - Rota region, Northern Mariana Islands", "Descriptio": "<h2>M 4.6 - Rota region, Northern Mariana Islands<\/h2><dl><dt>Time<\/dt><dd>2012-" }, "geometry": { "type": "Point", "coordinates": [ 144.84, 14.815, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16108, "properties": { "Name": "M 2.7 - Central California", "Descriptio": "<h2>M 2.7 - Central California<\/h2><dl><dt>Time<\/dt><dd>2012-10-23 04:37:56 UTC<" }, "geometry": { "type": "Point", "coordinates": [ -120.883, 35.577, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16109, "properties": { "Name": "M 4.8 - south of the Fiji Islands", "Descriptio": "<h2>M 4.8 - south of the Fiji Islands<\/h2><dl><dt>Time<\/dt><dd>2012-10-23 04:36:" }, "geometry": { "type": "Point", "coordinates": [ 179.928, -24.789, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16110, "properties": { "Name": "M 4.2 - Hindu Kush region, Afghanistan", "Descriptio": "<h2>M 4.2 - Hindu Kush region, Afghanistan<\/h2><dl><dt>Time<\/dt><dd>2012-10-23 0" }, "geometry": { "type": "Point", "coordinates": [ 70.715, 36.286, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16111, "properties": { "Name": "M 4.6 - south of the Fiji Islands", "Descriptio": "<h2>M 4.6 - south of the Fiji Islands<\/h2><dl><dt>Time<\/dt><dd>2012-10-23 02:11:" }, "geometry": { "type": "Point", "coordinates": [ 179.668, -25.039, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16112, "properties": { "Name": "M 4.7 - off the east coast of Honshu, Japan", "Descriptio": "<h2>M 4.7 - off the east coast of Honshu, Japan<\/h2><dl><dt>Time<\/dt><dd>2012-10" }, "geometry": { "type": "Point", "coordinates": [ 143.05, 39.625, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16113, "properties": { "Name": "M 4.5 - Guatemala", "Descriptio": "<h2>M 4.5 - Guatemala<\/h2><dl><dt>Time<\/dt><dd>2012-10-23 00:21:11 UTC<\/dd><dd>2" }, "geometry": { "type": "Point", "coordinates": [ -89.815, 14.265, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16114, "properties": { "Name": "M 4.3 - Oaxaca, Mexico", "Descriptio": "<h2>M 4.3 - Oaxaca, Mexico<\/h2><dl><dt>Time<\/dt><dd>2012-10-22 23:35:07 UTC<\/dd>" }, "geometry": { "type": "Point", "coordinates": [ -97.701, 17.837, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16115, "properties": { "Name": "M 3.2 - Central Alaska", "Descriptio": "<h2>M 3.2 - Central Alaska<\/h2><dl><dt>Time<\/dt><dd>2012-10-22 23:27:33 UTC<\/dd>" }, "geometry": { "type": "Point", "coordinates": [ -151.282, 63.405, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16116, "properties": { "Name": "M 4.7 - near the south coast of Papua, Indonesia", "Descriptio": "<h2>M 4.7 - near the south coast of Papua, Indonesia<\/h2><dl><dt>Time<\/dt><dd>20" }, "geometry": { "type": "Point", "coordinates": [ 133.91, -4.947, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16117, "properties": { "Name": "M 2.8 - Virgin Islands region", "Descriptio": "<h2>M 2.8 - Virgin Islands region<\/h2><dl><dt>Time<\/dt><dd>2012-10-22 21:50:01 U" }, "geometry": { "type": "Point", "coordinates": [ -64.73, 19.13, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16118, "properties": { "Name": "M 3.2 - Andreanof Islands, Aleutian Islands, Alaska", "Descriptio": "<h2>M 3.2 - Andreanof Islands, Aleutian Islands, Alaska<\/h2><dl><dt>Time<\/dt><dd" }, "geometry": { "type": "Point", "coordinates": [ -178.154, 51.469, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16119, "properties": { "Name": "M 2.6 - Hawaii region, Hawaii", "Descriptio": "<h2>M 2.6 - Hawaii region, Hawaii<\/h2><dl><dt>Time<\/dt><dd>2012-10-22 21:38:06 U" }, "geometry": { "type": "Point", "coordinates": [ -155.242, 19.386, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16120, "properties": { "Name": "M 2.5 - south of Alaska", "Descriptio": "<h2>M 2.5 - south of Alaska<\/h2><dl><dt>Time<\/dt><dd>2012-10-22 21:06:01 UTC<\/dd" }, "geometry": { "type": "Point", "coordinates": [ -162.096, 52.869, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16121, "properties": { "Name": "M 4.6 - near the coast of Nicaragua", "Descriptio": "<h2>M 4.6 - near the coast of Nicaragua<\/h2><dl><dt>Time<\/dt><dd>2012-10-22 20:3" }, "geometry": { "type": "Point", "coordinates": [ -87.978, 12.178, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16122, "properties": { "Name": "M 4.6 - Bismarck Sea", "Descriptio": "<h2>M 4.6 - Bismarck Sea<\/h2><dl><dt>Time<\/dt><dd>2012-10-22 20:05:51 UTC<\/dd><d" }, "geometry": { "type": "Point", "coordinates": [ 146.099, -3.524, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16123, "properties": { "Name": "M 4.5 - Andreanof Islands, Aleutian Islands, Alaska", "Descriptio": "<h2>M 4.5 - Andreanof Islands, Aleutian Islands, Alaska<\/h2><dl><dt>Time<\/dt><dd" }, "geometry": { "type": "Point", "coordinates": [ -175.057, 52.002, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16124, "properties": { "Name": "M 4.5 - Mariana Islands region", "Descriptio": "<h2>M 4.5 - Mariana Islands region<\/h2><dl><dt>Time<\/dt><dd>2012-10-22 18:50:06" }, "geometry": { "type": "Point", "coordinates": [ 143.772, 18.766, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16125, "properties": { "Name": "M 4.5 - Bougainville region, Papua New Guinea", "Descriptio": "<h2>M 4.5 - Bougainville region, Papua New Guinea<\/h2><dl><dt>Time<\/dt><dd>2012-" }, "geometry": { "type": "Point", "coordinates": [ 155.373, -6.856, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16126, "properties": { "Name": "M 4.1 - Veracruz, Mexico", "Descriptio": "<h2>M 4.1 - Veracruz, Mexico<\/h2><dl><dt>Time<\/dt><dd>2012-10-22 17:45:52 UTC<\/d" }, "geometry": { "type": "Point", "coordinates": [ -94.146, 17.265, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16127, "properties": { "Name": "M 4.5 - Solomon Islands", "Descriptio": "<h2>M 4.5 - Solomon Islands<\/h2><dl><dt>Time<\/dt><dd>2012-10-22 16:37:22 UTC<\/dd" }, "geometry": { "type": "Point", "coordinates": [ 162.434, -11.095, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16128, "properties": { "Name": "M 4.1 - east of the North Island of New Zealand", "Descriptio": "<h2>M 4.1 - east of the North Island of New Zealand<\/h2><dl><dt>Time<\/dt><dd>201" }, "geometry": { "type": "Point", "coordinates": [ -178.95, -35.693, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16129, "properties": { "Name": "M 4.7 - Federated States of Micronesia region", "Descriptio": "<h2>M 4.7 - Federated States of Micronesia region<\/h2><dl><dt>Time<\/dt><dd>2012-" }, "geometry": { "type": "Point", "coordinates": [ 147.78, 2.868, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16130, "properties": { "Name": "M 4.0 - Potosi, Bolivia", "Descriptio": "<h2>M 4.0 - Potosi, Bolivia<\/h2><dl><dt>Time<\/dt><dd>2012-10-22 15:55:29 UTC<\/dd" }, "geometry": { "type": "Point", "coordinates": [ -68.737, -20.431, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16131, "properties": { "Name": "M 4.1 - Kermadec Islands, New Zealand", "Descriptio": "<h2>M 4.1 - Kermadec Islands, New Zealand<\/h2><dl><dt>Time<\/dt><dd>2012-10-22 15" }, "geometry": { "type": "Point", "coordinates": [ -177.761, -29.281, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16132, "properties": { "Name": "M 2.9 - Virgin Islands region", "Descriptio": "<h2>M 2.9 - Virgin Islands region<\/h2><dl><dt>Time<\/dt><dd>2012-10-22 15:11:31 U" }, "geometry": { "type": "Point", "coordinates": [ -64.357, 18.684, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16133, "properties": { "Name": "M 5.1 - Federated States of Micronesia region", "Descriptio": "<h2>M 5.1 - Federated States of Micronesia region<\/h2><dl><dt>Time<\/dt><dd>2012-" }, "geometry": { "type": "Point", "coordinates": [ 147.678, 2.893, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16134, "properties": { "Name": "M 2.7 - Fox Islands, Aleutian Islands, Alaska", "Descriptio": "<h2>M 2.7 - Fox Islands, Aleutian Islands, Alaska<\/h2><dl><dt>Time<\/dt><dd>2012-" }, "geometry": { "type": "Point", "coordinates": [ -168.986, 53.593, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16135, "properties": { "Name": "M 4.1 - Laos-Vietnam border region", "Descriptio": "<h2>M 4.1 - Laos-Vietnam border region<\/h2><dl><dt>Time<\/dt><dd>2012-10-22 13:41" }, "geometry": { "type": "Point", "coordinates": [ 107.995, 15.353, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16136, "properties": { "Name": "M 4.3 - New Britain region, Papua New Guinea", "Descriptio": "<h2>M 4.3 - New Britain region, Papua New Guinea<\/h2><dl><dt>Time<\/dt><dd>2012-1" }, "geometry": { "type": "Point", "coordinates": [ 153.692, -6.564, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16137, "properties": { "Name": "M 4.4 - Peru-Ecuador border region", "Descriptio": "<h2>M 4.4 - Peru-Ecuador border region<\/h2><dl><dt>Time<\/dt><dd>2012-10-22 12:56" }, "geometry": { "type": "Point", "coordinates": [ -77.56, -3.133, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16138, "properties": { "Name": "M 4.4 - off the east coast of the North Island of New Zealand", "Descriptio": "<h2>M 4.4 - off the east coast of the North Island of New Zealand<\/h2><dl><dt>Ti" }, "geometry": { "type": "Point", "coordinates": [ 178.272, -38.444, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16139, "properties": { "Name": "M 4.6 - off the west coast of northern Sumatra", "Descriptio": "<h2>M 4.6 - off the west coast of northern Sumatra<\/h2><dl><dt>Time<\/dt><dd>2012" }, "geometry": { "type": "Point", "coordinates": [ 92.527, 2.128, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16140, "properties": { "Name": "M 2.7 - off the coast of Oregon", "Descriptio": "<h2>M 2.7 - off the coast of Oregon<\/h2><dl><dt>Time<\/dt><dd>2012-10-22 12:37:57" }, "geometry": { "type": "Point", "coordinates": [ -125.348, 44.91, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16141, "properties": { "Name": "M 4.8 - Kuril Islands", "Descriptio": "<h2>M 4.8 - Kuril Islands<\/h2><dl><dt>Time<\/dt><dd>2012-10-22 11:58:26 UTC<\/dd><" }, "geometry": { "type": "Point", "coordinates": [ 156.825, 50.14, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16142, "properties": { "Name": "M 5.2 - South Sandwich Islands region", "Descriptio": "<h2>M 5.2 - South Sandwich Islands region<\/h2><dl><dt>Time<\/dt><dd>2012-10-22 09" }, "geometry": { "type": "Point", "coordinates": [ -25.59, -56.301, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16143, "properties": { "Name": "M 4.4 - off the east coast of Honshu, Japan", "Descriptio": "<h2>M 4.4 - off the east coast of Honshu, Japan<\/h2><dl><dt>Time<\/dt><dd>2012-10" }, "geometry": { "type": "Point", "coordinates": [ 144.087, 36.752, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16144, "properties": { "Name": "M 4.6 - near the east coast of Honshu, Japan", "Descriptio": "<h2>M 4.6 - near the east coast of Honshu, Japan<\/h2><dl><dt>Time<\/dt><dd>2012-1" }, "geometry": { "type": "Point", "coordinates": [ 141.838, 38.015, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16145, "properties": { "Name": "M 4.0 - South Sandwich Islands region", "Descriptio": "<h2>M 4.0 - South Sandwich Islands region<\/h2><dl><dt>Time<\/dt><dd>2012-10-22 09" }, "geometry": { "type": "Point", "coordinates": [ -26.456, -55.498, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16146, "properties": { "Name": "M 4.1 - Guerrero, Mexico", "Descriptio": "<h2>M 4.1 - Guerrero, Mexico<\/h2><dl><dt>Time<\/dt><dd>2012-10-22 08:21:25 UTC<\/d" }, "geometry": { "type": "Point", "coordinates": [ -98.212, 16.808, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16147, "properties": { "Name": "M 4.1 - Alaska Peninsula", "Descriptio": "<h2>M 4.1 - Alaska Peninsula<\/h2><dl><dt>Time<\/dt><dd>2012-10-22 08:19:10 UTC<\/d" }, "geometry": { "type": "Point", "coordinates": [ -155.137, 58.246, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16148, "properties": { "Name": "M 4.0 - Guerrero, Mexico", "Descriptio": "<h2>M 4.0 - Guerrero, Mexico<\/h2><dl><dt>Time<\/dt><dd>2012-10-22 06:32:04 UTC<\/d" }, "geometry": { "type": "Point", "coordinates": [ -100.792, 18.256, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16149, "properties": { "Name": "M 3.2 - Virgin Islands region", "Descriptio": "<h2>M 3.2 - Virgin Islands region<\/h2><dl><dt>Time<\/dt><dd>2012-10-22 05:26:29 U" }, "geometry": { "type": "Point", "coordinates": [ -64.264, 19.664, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16150, "properties": { "Name": "M 4.2 - Solomon Islands", "Descriptio": "<h2>M 4.2 - Solomon Islands<\/h2><dl><dt>Time<\/dt><dd>2012-10-22 05:03:19 UTC<\/dd" }, "geometry": { "type": "Point", "coordinates": [ 161.154, -10.82, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16151, "properties": { "Name": "M 4.5 - Halmahera, Indonesia", "Descriptio": "<h2>M 4.5 - Halmahera, Indonesia<\/h2><dl><dt>Time<\/dt><dd>2012-10-22 04:54:06 UT" }, "geometry": { "type": "Point", "coordinates": [ 128.552, 2.801, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16152, "properties": { "Name": "M 2.8 - Unimak Island region, Alaska", "Descriptio": "<h2>M 2.8 - Unimak Island region, Alaska<\/h2><dl><dt>Time<\/dt><dd>2012-10-22 04:" }, "geometry": { "type": "Point", "coordinates": [ -163.62, 54.002, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16153, "properties": { "Name": "M 4.1 - Kermadec Islands region", "Descriptio": "<h2>M 4.1 - Kermadec Islands region<\/h2><dl><dt>Time<\/dt><dd>2012-10-22 03:45:02" }, "geometry": { "type": "Point", "coordinates": [ -177.717, -28.841, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16154, "properties": { "Name": "M 3.4 - Rat Islands, Aleutian Islands, Alaska", "Descriptio": "<h2>M 3.4 - Rat Islands, Aleutian Islands, Alaska<\/h2><dl><dt>Time<\/dt><dd>2012-" }, "geometry": { "type": "Point", "coordinates": [ 176.29, 51.72, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16155, "properties": { "Name": "M 3.4 - Rat Islands, Aleutian Islands, Alaska", "Descriptio": "<h2>M 3.4 - Rat Islands, Aleutian Islands, Alaska<\/h2><dl><dt>Time<\/dt><dd>2012-" }, "geometry": { "type": "Point", "coordinates": [ 178.68, 51.599, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16156, "properties": { "Name": "M 4.3 - Fiji region", "Descriptio": "<h2>M 4.3 - Fiji region<\/h2><dl><dt>Time<\/dt><dd>2012-10-22 02:12:29 UTC<\/dd><dd" }, "geometry": { "type": "Point", "coordinates": [ -178.974, -17.563, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16157, "properties": { "Name": "M 2.5 - Southern Alaska", "Descriptio": "<h2>M 2.5 - Southern Alaska<\/h2><dl><dt>Time<\/dt><dd>2012-10-22 02:04:22 UTC<\/dd" }, "geometry": { "type": "Point", "coordinates": [ -155.867, 61.065, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16158, "properties": { "Name": "M 4.8 - near the east coast of Honshu, Japan", "Descriptio": "<h2>M 4.8 - near the east coast of Honshu, Japan<\/h2><dl><dt>Time<\/dt><dd>2012-1" }, "geometry": { "type": "Point", "coordinates": [ 142.224, 39.129, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16159, "properties": { "Name": "M 3.6 - Fox Islands, Aleutian Islands, Alaska", "Descriptio": "<h2>M 3.6 - Fox Islands, Aleutian Islands, Alaska<\/h2><dl><dt>Time<\/dt><dd>2012-" }, "geometry": { "type": "Point", "coordinates": [ -169.508, 53.138, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16160, "properties": { "Name": "M 4.6 - Celebes Sea", "Descriptio": "<h2>M 4.6 - Celebes Sea<\/h2><dl><dt>Time<\/dt><dd>2012-10-22 01:02:25 UTC<\/dd><dd" }, "geometry": { "type": "Point", "coordinates": [ 124.572, 4.21, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16161, "properties": { "Name": "M 3.6 - Fox Islands, Aleutian Islands, Alaska", "Descriptio": "<h2>M 3.6 - Fox Islands, Aleutian Islands, Alaska<\/h2><dl><dt>Time<\/dt><dd>2012-" }, "geometry": { "type": "Point", "coordinates": [ -169.29, 52.684, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16162, "properties": { "Name": "M 4.8 - Tonga", "Descriptio": "<h2>M 4.8 - Tonga<\/h2><dl><dt>Time<\/dt><dd>2012-10-22 00:32:09 UTC<\/dd><dd>2012-" }, "geometry": { "type": "Point", "coordinates": [ -174.764, -16.503, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16163, "properties": { "Name": "M 3.2 - Fox Islands, Aleutian Islands, Alaska", "Descriptio": "<h2>M 3.2 - Fox Islands, Aleutian Islands, Alaska<\/h2><dl><dt>Time<\/dt><dd>2012-" }, "geometry": { "type": "Point", "coordinates": [ -169.031, 52.65, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16164, "properties": { "Name": "M 2.6 - Fox Islands, Aleutian Islands, Alaska", "Descriptio": "<h2>M 2.6 - Fox Islands, Aleutian Islands, Alaska<\/h2><dl><dt>Time<\/dt><dd>2012-" }, "geometry": { "type": "Point", "coordinates": [ -168.842, 52.43, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16165, "properties": { "Name": "M 3.0 - Puerto Rico region", "Descriptio": "<h2>M 3.0 - Puerto Rico region<\/h2><dl><dt>Time<\/dt><dd>2012-10-21 23:28:42 UTC<" }, "geometry": { "type": "Point", "coordinates": [ -66.457, 19.065, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16166, "properties": { "Name": "M 3.0 - Fox Islands, Aleutian Islands, Alaska", "Descriptio": "<h2>M 3.0 - Fox Islands, Aleutian Islands, Alaska<\/h2><dl><dt>Time<\/dt><dd>2012-" }, "geometry": { "type": "Point", "coordinates": [ -168.818, 52.517, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16167, "properties": { "Name": "M 3.0 - Fox Islands, Aleutian Islands, Alaska", "Descriptio": "<h2>M 3.0 - Fox Islands, Aleutian Islands, Alaska<\/h2><dl><dt>Time<\/dt><dd>2012-" }, "geometry": { "type": "Point", "coordinates": [ -168.742, 52.442, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16168, "properties": { "Name": "M 2.8 - offshore Northern California", "Descriptio": "<h2>M 2.8 - offshore Northern California<\/h2><dl><dt>Time<\/dt><dd>2012-10-21 23:" }, "geometry": { "type": "Point", "coordinates": [ -124.522, 40.31, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16169, "properties": { "Name": "M 4.8 - Vanuatu", "Descriptio": "<h2>M 4.8 - Vanuatu<\/h2><dl><dt>Time<\/dt><dd>2012-10-21 22:52:05 UTC<\/dd><dd>201" }, "geometry": { "type": "Point", "coordinates": [ 166.8, -13.587, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16170, "properties": { "Name": "M 4.5 - Vanuatu", "Descriptio": "<h2>M 4.5 - Vanuatu<\/h2><dl><dt>Time<\/dt><dd>2012-10-21 21:11:43 UTC<\/dd><dd>201" }, "geometry": { "type": "Point", "coordinates": [ 166.661, -13.656, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16171, "properties": { "Name": "M 4.3 - Izu Islands, Japan region", "Descriptio": "<h2>M 4.3 - Izu Islands, Japan region<\/h2><dl><dt>Time<\/dt><dd>2012-10-21 20:46:" }, "geometry": { "type": "Point", "coordinates": [ 143.055, 30.949, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16172, "properties": { "Name": "M 5.1 - offshore El Salvador", "Descriptio": "<h2>M 5.1 - offshore El Salvador<\/h2><dl><dt>Time<\/dt><dd>2012-10-21 20:44:15 UT" }, "geometry": { "type": "Point", "coordinates": [ -88.332, 12.59, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16173, "properties": { "Name": "M 3.6 - Northern California", "Descriptio": "<h2>M 3.6 - Northern California<\/h2><dl><dt>Time<\/dt><dd>2012-10-21 20:40:08 UTC" }, "geometry": { "type": "Point", "coordinates": [ -123.934, 40.901, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16174, "properties": { "Name": "M 5.4 - offshore El Salvador", "Descriptio": "<h2>M 5.4 - offshore El Salvador<\/h2><dl><dt>Time<\/dt><dd>2012-10-21 20:28:17 UT" }, "geometry": { "type": "Point", "coordinates": [ -88.337, 12.562, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16175, "properties": { "Name": "M 4.2 - Banda Sea", "Descriptio": "<h2>M 4.2 - Banda Sea<\/h2><dl><dt>Time<\/dt><dd>2012-10-21 19:14:21 UTC<\/dd><dd>2" }, "geometry": { "type": "Point", "coordinates": [ 128.204, -5.447, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16176, "properties": { "Name": "M 2.6 - Virgin Islands region", "Descriptio": "<h2>M 2.6 - Virgin Islands region<\/h2><dl><dt>Time<\/dt><dd>2012-10-21 19:05:23 U" }, "geometry": { "type": "Point", "coordinates": [ -64.368, 18.719, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16177, "properties": { "Name": "M 4.8 - southeastern Iran", "Descriptio": "<h2>M 4.8 - southeastern Iran<\/h2><dl><dt>Time<\/dt><dd>2012-10-21 16:38:18 UTC<\/" }, "geometry": { "type": "Point", "coordinates": [ 59.431, 27.538, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16178, "properties": { "Name": "M 4.5 - Oman - United Arab Emirates region", "Descriptio": "<h2>M 4.5 - Oman - United Arab Emirates region<\/h2><dl><dt>Time<\/dt><dd>2012-10-" }, "geometry": { "type": "Point", "coordinates": [ 56.138, 25.114, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16179, "properties": { "Name": "M 4.0 - Luzon, Philippines", "Descriptio": "<h2>M 4.0 - Luzon, Philippines<\/h2><dl><dt>Time<\/dt><dd>2012-10-21 15:33:15 UTC<" }, "geometry": { "type": "Point", "coordinates": [ 121.267, 15.747, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16180, "properties": { "Name": "M 4.6 - Kepulauan Barat Daya, Indonesia", "Descriptio": "<h2>M 4.6 - Kepulauan Barat Daya, Indonesia<\/h2><dl><dt>Time<\/dt><dd>2012-10-21" }, "geometry": { "type": "Point", "coordinates": [ 128.577, -7.324, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16181, "properties": { "Name": "M 2.8 - Central California", "Descriptio": "<h2>M 2.8 - Central California<\/h2><dl><dt>Time<\/dt><dd>2012-10-21 15:21:02 UTC<" }, "geometry": { "type": "Point", "coordinates": [ -120.839, 36.281, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16182, "properties": { "Name": "M 4.2 - Vanuatu", "Descriptio": "<h2>M 4.2 - Vanuatu<\/h2><dl><dt>Time<\/dt><dd>2012-10-21 15:16:32 UTC<\/dd><dd>201" }, "geometry": { "type": "Point", "coordinates": [ 168.31, -17.583, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16183, "properties": { "Name": "M 4.4 - Dominican Republic region", "Descriptio": "<h2>M 4.4 - Dominican Republic region<\/h2><dl><dt>Time<\/dt><dd>2012-10-21 15:07:" }, "geometry": { "type": "Point", "coordinates": [ -69.84, 19.538, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16184, "properties": { "Name": "M 4.4 - Sakhalin, Russia", "Descriptio": "<h2>M 4.4 - Sakhalin, Russia<\/h2><dl><dt>Time<\/dt><dd>2012-10-21 14:09:19 UTC<\/d" }, "geometry": { "type": "Point", "coordinates": [ 142.634, 53.392, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16185, "properties": { "Name": "M 2.5 - Southern Alaska", "Descriptio": "<h2>M 2.5 - Southern Alaska<\/h2><dl><dt>Time<\/dt><dd>2012-10-21 13:54:02 UTC<\/dd" }, "geometry": { "type": "Point", "coordinates": [ -152.012, 61.766, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16186, "properties": { "Name": "M 4.4 - off the coast of Costa Rica", "Descriptio": "<h2>M 4.4 - off the coast of Costa Rica<\/h2><dl><dt>Time<\/dt><dd>2012-10-21 13:3" }, "geometry": { "type": "Point", "coordinates": [ -85.661, 9.951, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16187, "properties": { "Name": "M 3.6 - Antofagasta, Chile", "Descriptio": "<h2>M 3.6 - Antofagasta, Chile<\/h2><dl><dt>Time<\/dt><dd>2012-10-21 13:31:56 UTC<" }, "geometry": { "type": "Point", "coordinates": [ -68.553, -21.823, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16188, "properties": { "Name": "M 4.5 - New Britain region, Papua New Guinea", "Descriptio": "<h2>M 4.5 - New Britain region, Papua New Guinea<\/h2><dl><dt>Time<\/dt><dd>2012-1" }, "geometry": { "type": "Point", "coordinates": [ 152.866, -5.254, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16189, "properties": { "Name": "M 4.9 - Sakhalin, Russia", "Descriptio": "<h2>M 4.9 - Sakhalin, Russia<\/h2><dl><dt>Time<\/dt><dd>2012-10-21 11:57:28 UTC<\/d" }, "geometry": { "type": "Point", "coordinates": [ 142.658, 53.457, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16190, "properties": { "Name": "M 4.5 - offshore Bio-Bio, Chile", "Descriptio": "<h2>M 4.5 - offshore Bio-Bio, Chile<\/h2><dl><dt>Time<\/dt><dd>2012-10-21 11:40:36" }, "geometry": { "type": "Point", "coordinates": [ -73.723, -37.658, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16191, "properties": { "Name": "M 2.5 - Gulf of Alaska", "Descriptio": "<h2>M 2.5 - Gulf of Alaska<\/h2><dl><dt>Time<\/dt><dd>2012-10-21 11:36:27 UTC<\/dd>" }, "geometry": { "type": "Point", "coordinates": [ -150.617, 58.432, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16192, "properties": { "Name": "M 4.5 - Tajikistan", "Descriptio": "<h2>M 4.5 - Tajikistan<\/h2><dl><dt>Time<\/dt><dd>2012-10-21 10:58:28 UTC<\/dd><dd>" }, "geometry": { "type": "Point", "coordinates": [ 74.135, 38.193, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16193, "properties": { "Name": "M 3.1 - Virgin Islands region", "Descriptio": "<h2>M 3.1 - Virgin Islands region<\/h2><dl><dt>Time<\/dt><dd>2012-10-21 10:51:49 U" }, "geometry": { "type": "Point", "coordinates": [ -63.914, 19.045, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16194, "properties": { "Name": "M 3.4 - Oklahoma", "Descriptio": "<h2>M 3.4 - Oklahoma<\/h2><dl><dt>Time<\/dt><dd>2012-10-21 10:44:15 UTC<\/dd><dd>20" }, "geometry": { "type": "Point", "coordinates": [ -97.215, 35.653, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16195, "properties": { "Name": "M 2.7 - Hawaii region, Hawaii", "Descriptio": "<h2>M 2.7 - Hawaii region, Hawaii<\/h2><dl><dt>Time<\/dt><dd>2012-10-21 09:58:33 U" }, "geometry": { "type": "Point", "coordinates": [ -155.241, 19.379, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16196, "properties": { "Name": "M 3.4 - Fox Islands, Aleutian Islands, Alaska", "Descriptio": "<h2>M 3.4 - Fox Islands, Aleutian Islands, Alaska<\/h2><dl><dt>Time<\/dt><dd>2012-" }, "geometry": { "type": "Point", "coordinates": [ -165.06, 53.52, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16197, "properties": { "Name": "M 4.0 - Kepulauan Babar, Indonesia", "Descriptio": "<h2>M 4.0 - Kepulauan Babar, Indonesia<\/h2><dl><dt>Time<\/dt><dd>2012-10-21 09:42" }, "geometry": { "type": "Point", "coordinates": [ 129.572, -7.305, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16198, "properties": { "Name": "M 3.0 - Rat Islands, Aleutian Islands, Alaska", "Descriptio": "<h2>M 3.0 - Rat Islands, Aleutian Islands, Alaska<\/h2><dl><dt>Time<\/dt><dd>2012-" }, "geometry": { "type": "Point", "coordinates": [ 176.366, 51.915, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16199, "properties": { "Name": "M 4.6 - Rat Islands, Aleutian Islands, Alaska", "Descriptio": "<h2>M 4.6 - Rat Islands, Aleutian Islands, Alaska<\/h2><dl><dt>Time<\/dt><dd>2012-" }, "geometry": { "type": "Point", "coordinates": [ 176.395, 51.91, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16200, "properties": { "Name": "M 4.8 - Kermadec Islands region", "Descriptio": "<h2>M 4.8 - Kermadec Islands region<\/h2><dl><dt>Time<\/dt><dd>2012-10-21 08:01:06" }, "geometry": { "type": "Point", "coordinates": [ -177.063, -28.961, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16201, "properties": { "Name": "M 4.7 - Andaman Islands, India region", "Descriptio": "<h2>M 4.7 - Andaman Islands, India region<\/h2><dl><dt>Time<\/dt><dd>2012-10-21 07" }, "geometry": { "type": "Point", "coordinates": [ 96.175, 13.694, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16202, "properties": { "Name": "M 3.1 - Central California", "Descriptio": "<h2>M 3.1 - Central California<\/h2><dl><dt>Time<\/dt><dd>2012-10-21 07:51:33 UTC<" }, "geometry": { "type": "Point", "coordinates": [ -120.847, 36.307, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16203, "properties": { "Name": "M 3.6 - Central California", "Descriptio": "<h2>M 3.6 - Central California<\/h2><dl><dt>Time<\/dt><dd>2012-10-21 07:37:47 UTC<" }, "geometry": { "type": "Point", "coordinates": [ -120.849, 36.309, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16204, "properties": { "Name": "M 2.7 - Virgin Islands region", "Descriptio": "<h2>M 2.7 - Virgin Islands region<\/h2><dl><dt>Time<\/dt><dd>2012-10-21 07:18:05 U" }, "geometry": { "type": "Point", "coordinates": [ -64.332, 19.058, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16205, "properties": { "Name": "M 2.9 - Central California", "Descriptio": "<h2>M 2.9 - Central California<\/h2><dl><dt>Time<\/dt><dd>2012-10-21 07:18:03 UTC<" }, "geometry": { "type": "Point", "coordinates": [ -120.858, 36.306, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16206, "properties": { "Name": "M 2.8 - Puerto Rico region", "Descriptio": "<h2>M 2.8 - Puerto Rico region<\/h2><dl><dt>Time<\/dt><dd>2012-10-21 07:15:12 UTC<" }, "geometry": { "type": "Point", "coordinates": [ -65.782, 17.934, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16207, "properties": { "Name": "M 5.4 - Central California", "Descriptio": "<h2>M 5.4 - Central California<\/h2><dl><dt>Time<\/dt><dd>2012-10-21 06:55:09 UTC<" }, "geometry": { "type": "Point", "coordinates": [ -120.856, 36.311, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16208, "properties": { "Name": "M 4.6 - Taiwan region", "Descriptio": "<h2>M 4.6 - Taiwan region<\/h2><dl><dt>Time<\/dt><dd>2012-10-21 06:27:45 UTC<\/dd><" }, "geometry": { "type": "Point", "coordinates": [ 122.072, 21.055, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16209, "properties": { "Name": "M 4.7 - northern Mid-Atlantic Ridge", "Descriptio": "<h2>M 4.7 - northern Mid-Atlantic Ridge<\/h2><dl><dt>Time<\/dt><dd>2012-10-21 06:1" }, "geometry": { "type": "Point", "coordinates": [ -36.199, 35.185, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16210, "properties": { "Name": "M 4.3 - northern Xinjiang, China", "Descriptio": "<h2>M 4.3 - northern Xinjiang, China<\/h2><dl><dt>Time<\/dt><dd>2012-10-21 04:09:0" }, "geometry": { "type": "Point", "coordinates": [ 89.328, 43.354, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16211, "properties": { "Name": "M 4.3 - Tonga", "Descriptio": "<h2>M 4.3 - Tonga<\/h2><dl><dt>Time<\/dt><dd>2012-10-21 03:50:56 UTC<\/dd><dd>2012-" }, "geometry": { "type": "Point", "coordinates": [ -175.808, -19.411, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16212, "properties": { "Name": "M 4.1 - northern Xinjiang, China", "Descriptio": "<h2>M 4.1 - northern Xinjiang, China<\/h2><dl><dt>Time<\/dt><dd>2012-10-21 03:24:0" }, "geometry": { "type": "Point", "coordinates": [ 86.964, 43.925, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16213, "properties": { "Name": "M 4.3 - Java, Indonesia", "Descriptio": "<h2>M 4.3 - Java, Indonesia<\/h2><dl><dt>Time<\/dt><dd>2012-10-21 02:41:16 UTC<\/dd" }, "geometry": { "type": "Point", "coordinates": [ 108.309, -7.883, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16214, "properties": { "Name": "M 4.5 - New Britain region, Papua New Guinea", "Descriptio": "<h2>M 4.5 - New Britain region, Papua New Guinea<\/h2><dl><dt>Time<\/dt><dd>2012-1" }, "geometry": { "type": "Point", "coordinates": [ 148.41, -6.989, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16215, "properties": { "Name": "M 3.2 - Southern Alaska", "Descriptio": "<h2>M 3.2 - Southern Alaska<\/h2><dl><dt>Time<\/dt><dd>2012-10-21 02:27:10 UTC<\/dd" }, "geometry": { "type": "Point", "coordinates": [ -144.707, 60.399, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16216, "properties": { "Name": "M 5.5 - Iceland region", "Descriptio": "<h2>M 5.5 - Iceland region<\/h2><dl><dt>Time<\/dt><dd>2012-10-21 01:25:21 UTC<\/dd>" }, "geometry": { "type": "Point", "coordinates": [ -18.666, 66.317, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16217, "properties": { "Name": "M 4.1 - Iceland region", "Descriptio": "<h2>M 4.1 - Iceland region<\/h2><dl><dt>Time<\/dt><dd>2012-10-21 01:03:45 UTC<\/dd>" }, "geometry": { "type": "Point", "coordinates": [ -18.743, 66.028, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16218, "properties": { "Name": "M 3.4 - Unimak Island region, Alaska", "Descriptio": "<h2>M 3.4 - Unimak Island region, Alaska<\/h2><dl><dt>Time<\/dt><dd>2012-10-21 00:" }, "geometry": { "type": "Point", "coordinates": [ -163.589, 53.377, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16219, "properties": { "Name": "M 3.3 - Puerto Rico region", "Descriptio": "<h2>M 3.3 - Puerto Rico region<\/h2><dl><dt>Time<\/dt><dd>2012-10-21 00:52:32 UTC<" }, "geometry": { "type": "Point", "coordinates": [ -65.603, 19.728, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16220, "properties": { "Name": "M 4.3 - Vanuatu", "Descriptio": "<h2>M 4.3 - Vanuatu<\/h2><dl><dt>Time<\/dt><dd>2012-10-21 00:33:45 UTC<\/dd><dd>201" }, "geometry": { "type": "Point", "coordinates": [ 166.642, -13.661, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16221, "properties": { "Name": "M 5.3 - Iceland region", "Descriptio": "<h2>M 5.3 - Iceland region<\/h2><dl><dt>Time<\/dt><dd>2012-10-21 00:10:35 UTC<\/dd>" }, "geometry": { "type": "Point", "coordinates": [ -18.551, 66.382, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16222, "properties": { "Name": "M 4.1 - South Sandwich Islands region", "Descriptio": "<h2>M 4.1 - South Sandwich Islands region<\/h2><dl><dt>Time<\/dt><dd>2012-10-20 23" }, "geometry": { "type": "Point", "coordinates": [ -25.643, -57.677, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16223, "properties": { "Name": "M 4.1 - Iceland region", "Descriptio": "<h2>M 4.1 - Iceland region<\/h2><dl><dt>Time<\/dt><dd>2012-10-20 23:38:17 UTC<\/dd>" }, "geometry": { "type": "Point", "coordinates": [ -18.678, 66.165, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16224, "properties": { "Name": "M 4.2 - Vanuatu", "Descriptio": "<h2>M 4.2 - Vanuatu<\/h2><dl><dt>Time<\/dt><dd>2012-10-20 23:35:13 UTC<\/dd><dd>201" }, "geometry": { "type": "Point", "coordinates": [ 166.753, -13.578, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16225, "properties": { "Name": "M 4.8 - Chagos Archipelago region", "Descriptio": "<h2>M 4.8 - Chagos Archipelago region<\/h2><dl><dt>Time<\/dt><dd>2012-10-20 23:30:" }, "geometry": { "type": "Point", "coordinates": [ 68.619, -5.295, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16226, "properties": { "Name": "M 2.9 - Virgin Islands region", "Descriptio": "<h2>M 2.9 - Virgin Islands region<\/h2><dl><dt>Time<\/dt><dd>2012-10-20 23:17:13 U" }, "geometry": { "type": "Point", "coordinates": [ -63.807, 19.317, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16227, "properties": { "Name": "M 4.2 - Izu Islands, Japan region", "Descriptio": "<h2>M 4.2 - Izu Islands, Japan region<\/h2><dl><dt>Time<\/dt><dd>2012-10-20 23:01:" }, "geometry": { "type": "Point", "coordinates": [ 142.3, 29.384, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16228, "properties": { "Name": "M 6.2 - Vanuatu", "Descriptio": "<h2>M 6.2 - Vanuatu<\/h2><dl><dt>Time<\/dt><dd>2012-10-20 23:00:32 UTC<\/dd><dd>201" }, "geometry": { "type": "Point", "coordinates": [ 166.564, -13.552, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16229, "properties": { "Name": "M 4.7 - Russia-Mongolia border region", "Descriptio": "<h2>M 4.7 - Russia-Mongolia border region<\/h2><dl><dt>Time<\/dt><dd>2012-10-20 22" }, "geometry": { "type": "Point", "coordinates": [ 88.444, 49.886, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16230, "properties": { "Name": "M 3.1 - Baja California, Mexico", "Descriptio": "<h2>M 3.1 - Baja California, Mexico<\/h2><dl><dt>Time<\/dt><dd>2012-10-20 22:38:57" }, "geometry": { "type": "Point", "coordinates": [ -115.663, 32.531, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16231, "properties": { "Name": "M 4.3 - Fiji region", "Descriptio": "<h2>M 4.3 - Fiji region<\/h2><dl><dt>Time<\/dt><dd>2012-10-20 22:14:56 UTC<\/dd><dd" }, "geometry": { "type": "Point", "coordinates": [ -178.969, -17.503, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16232, "properties": { "Name": "M 4.4 - northern Colombia", "Descriptio": "<h2>M 4.4 - northern Colombia<\/h2><dl><dt>Time<\/dt><dd>2012-10-20 21:51:10 UTC<\/" }, "geometry": { "type": "Point", "coordinates": [ -73.063, 6.761, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16233, "properties": { "Name": "M 4.6 - Potosi, Bolivia", "Descriptio": "<h2>M 4.6 - Potosi, Bolivia<\/h2><dl><dt>Time<\/dt><dd>2012-10-20 21:48:50 UTC<\/dd" }, "geometry": { "type": "Point", "coordinates": [ -66.671, -21.514, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16234, "properties": { "Name": "M 3.3 - Andreanof Islands, Aleutian Islands, Alaska", "Descriptio": "<h2>M 3.3 - Andreanof Islands, Aleutian Islands, Alaska<\/h2><dl><dt>Time<\/dt><dd" }, "geometry": { "type": "Point", "coordinates": [ -173.078, 51.582, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16235, "properties": { "Name": "M 4.0 - offshore Guerrero, Mexico", "Descriptio": "<h2>M 4.0 - offshore Guerrero, Mexico<\/h2><dl><dt>Time<\/dt><dd>2012-10-20 20:04:" }, "geometry": { "type": "Point", "coordinates": [ -101.567, 17.473, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16236, "properties": { "Name": "M 4.2 - eastern Xizang", "Descriptio": "<h2>M 4.2 - eastern Xizang<\/h2><dl><dt>Time<\/dt><dd>2012-10-20 18:27:09 UTC<\/dd>" }, "geometry": { "type": "Point", "coordinates": [ 91.838, 28.319, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16237, "properties": { "Name": "M 4.2 - South Sandwich Islands region", "Descriptio": "<h2>M 4.2 - South Sandwich Islands region<\/h2><dl><dt>Time<\/dt><dd>2012-10-20 18" }, "geometry": { "type": "Point", "coordinates": [ -27.975, -55.867, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16238, "properties": { "Name": "M 4.7 - Tajikistan", "Descriptio": "<h2>M 4.7 - Tajikistan<\/h2><dl><dt>Time<\/dt><dd>2012-10-20 17:31:59 UTC<\/dd><dd>" }, "geometry": { "type": "Point", "coordinates": [ 69.257, 37.535, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16239, "properties": { "Name": "M 4.8 - Kepulauan Mentawai region, Indonesia", "Descriptio": "<h2>M 4.8 - Kepulauan Mentawai region, Indonesia<\/h2><dl><dt>Time<\/dt><dd>2012-1" }, "geometry": { "type": "Point", "coordinates": [ 100.62, -3.455, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16240, "properties": { "Name": "M 3.3 - Alaska Peninsula", "Descriptio": "<h2>M 3.3 - Alaska Peninsula<\/h2><dl><dt>Time<\/dt><dd>2012-10-20 14:07:48 UTC<\/d" }, "geometry": { "type": "Point", "coordinates": [ -159.104, 56.346, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16241, "properties": { "Name": "M 2.9 - Virgin Islands region", "Descriptio": "<h2>M 2.9 - Virgin Islands region<\/h2><dl><dt>Time<\/dt><dd>2012-10-20 13:39:49 U" }, "geometry": { "type": "Point", "coordinates": [ -64.202, 19.492, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16242, "properties": { "Name": "M 4.0 - off the east coast of the North Island of New Zealand", "Descriptio": "<h2>M 4.0 - off the east coast of the North Island of New Zealand<\/h2><dl><dt>Ti" }, "geometry": { "type": "Point", "coordinates": [ 178.537, -38.646, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16243, "properties": { "Name": "M 4.8 - south of Panama", "Descriptio": "<h2>M 4.8 - south of Panama<\/h2><dl><dt>Time<\/dt><dd>2012-10-20 10:56:40 UTC<\/dd" }, "geometry": { "type": "Point", "coordinates": [ -79.738, 2.669, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16244, "properties": { "Name": "M 4.5 - Nicobar Islands, India region", "Descriptio": "<h2>M 4.5 - Nicobar Islands, India region<\/h2><dl><dt>Time<\/dt><dd>2012-10-20 10" }, "geometry": { "type": "Point", "coordinates": [ 91.799, 7.381, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16245, "properties": { "Name": "M 3.1 - Andreanof Islands, Aleutian Islands, Alaska", "Descriptio": "<h2>M 3.1 - Andreanof Islands, Aleutian Islands, Alaska<\/h2><dl><dt>Time<\/dt><dd" }, "geometry": { "type": "Point", "coordinates": [ -178.167, 51.537, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16246, "properties": { "Name": "M 2.7 - Andreanof Islands, Aleutian Islands, Alaska", "Descriptio": "<h2>M 2.7 - Andreanof Islands, Aleutian Islands, Alaska<\/h2><dl><dt>Time<\/dt><dd" }, "geometry": { "type": "Point", "coordinates": [ -178.046, 51.655, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16247, "properties": { "Name": "M 4.7 - Taiwan region", "Descriptio": "<h2>M 4.7 - Taiwan region<\/h2><dl><dt>Time<\/dt><dd>2012-10-20 08:49:38 UTC<\/dd><" }, "geometry": { "type": "Point", "coordinates": [ 122.508, 24.479, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16248, "properties": { "Name": "M 2.8 - Puerto Rico", "Descriptio": "<h2>M 2.8 - Puerto Rico<\/h2><dl><dt>Time<\/dt><dd>2012-10-20 07:51:20 UTC<\/dd><dd" }, "geometry": { "type": "Point", "coordinates": [ -66.621, 18.013, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16249, "properties": { "Name": "M 3.2 - Virgin Islands region", "Descriptio": "<h2>M 3.2 - Virgin Islands region<\/h2><dl><dt>Time<\/dt><dd>2012-10-20 07:28:58 U" }, "geometry": { "type": "Point", "coordinates": [ -64.316, 18.809, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16250, "properties": { "Name": "M 3.0 - Puerto Rico region", "Descriptio": "<h2>M 3.0 - Puerto Rico region<\/h2><dl><dt>Time<\/dt><dd>2012-10-20 06:03:41 UTC<" }, "geometry": { "type": "Point", "coordinates": [ -65.828, 18.969, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16251, "properties": { "Name": "M 3.2 - Andreanof Islands, Aleutian Islands, Alaska", "Descriptio": "<h2>M 3.2 - Andreanof Islands, Aleutian Islands, Alaska<\/h2><dl><dt>Time<\/dt><dd" }, "geometry": { "type": "Point", "coordinates": [ -179.25, 50.923, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16252, "properties": { "Name": "M 4.0 - off the west coast of northern Sumatra", "Descriptio": "<h2>M 4.0 - off the west coast of northern Sumatra<\/h2><dl><dt>Time<\/dt><dd>2012" }, "geometry": { "type": "Point", "coordinates": [ 93.574, 2.044, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16253, "properties": { "Name": "M 2.7 - Alaska Peninsula", "Descriptio": "<h2>M 2.7 - Alaska Peninsula<\/h2><dl><dt>Time<\/dt><dd>2012-10-20 04:25:14 UTC<\/d" }, "geometry": { "type": "Point", "coordinates": [ -160.461, 56.057, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16254, "properties": { "Name": "M 4.5 - Prince Edward Islands region", "Descriptio": "<h2>M 4.5 - Prince Edward Islands region<\/h2><dl><dt>Time<\/dt><dd>2012-10-20 03:" }, "geometry": { "type": "Point", "coordinates": [ 35.293, -44.812, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16255, "properties": { "Name": "M 4.4 - near the north coast of Colombia", "Descriptio": "<h2>M 4.4 - near the north coast of Colombia<\/h2><dl><dt>Time<\/dt><dd>2012-10-20" }, "geometry": { "type": "Point", "coordinates": [ -74.158, 10.942, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16256, "properties": { "Name": "M 4.2 - Veracruz, Mexico", "Descriptio": "<h2>M 4.2 - Veracruz, Mexico<\/h2><dl><dt>Time<\/dt><dd>2012-10-20 03:36:36 UTC<\/d" }, "geometry": { "type": "Point", "coordinates": [ -95.409, 17.726, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16257, "properties": { "Name": "M 2.9 - Southern Alaska", "Descriptio": "<h2>M 2.9 - Southern Alaska<\/h2><dl><dt>Time<\/dt><dd>2012-10-20 03:25:11 UTC<\/dd" }, "geometry": { "type": "Point", "coordinates": [ -150.264, 61.08, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16258, "properties": { "Name": "M 4.2 - Colima, Mexico", "Descriptio": "<h2>M 4.2 - Colima, Mexico<\/h2><dl><dt>Time<\/dt><dd>2012-10-20 03:02:32 UTC<\/dd>" }, "geometry": { "type": "Point", "coordinates": [ -104.091, 19.037, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16259, "properties": { "Name": "M 4.5 - Kyushu, Japan", "Descriptio": "<h2>M 4.5 - Kyushu, Japan<\/h2><dl><dt>Time<\/dt><dd>2012-10-20 02:49:15 UTC<\/dd><" }, "geometry": { "type": "Point", "coordinates": [ 130.991, 30.11, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16260, "properties": { "Name": "M 3.1 - Andreanof Islands, Aleutian Islands, Alaska", "Descriptio": "<h2>M 3.1 - Andreanof Islands, Aleutian Islands, Alaska<\/h2><dl><dt>Time<\/dt><dd" }, "geometry": { "type": "Point", "coordinates": [ -176.185, 51.09, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16261, "properties": { "Name": "M 4.3 - offshore Valparaiso, Chile", "Descriptio": "<h2>M 4.3 - offshore Valparaiso, Chile<\/h2><dl><dt>Time<\/dt><dd>2012-10-20 00:25" }, "geometry": { "type": "Point", "coordinates": [ -72.141, -32.251, 0.0 ] } }
+
+]
+}
