@@ -1,0 +1,206 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "id": 0, "properties": { "Name": "M 3.4 - 7km E of Willits, California", "Descriptio": "<h2>M 3.4 - 7km E of Willits, California<\/h2><p class=\"quicksummary\"><a href=\"ht" }, "geometry": { "type": "Point", "coordinates": [ -123.2715, 39.4002, 0.0 ] } }
+,
+{ "type": "Feature", "id": 1, "properties": { "Name": "M 2.5 - 4km WNW of The Geysers, California", "Descriptio": "<h2>M 2.5 - 4km WNW of The Geysers, California<\/h2><p class=\"quicksummary\"><a hr" }, "geometry": { "type": "Point", "coordinates": [ -122.8077, 38.7937, 0.0 ] } }
+,
+{ "type": "Feature", "id": 2, "properties": { "Name": "M 2.7 - 5km NNW of The Geysers, California", "Descriptio": "<h2>M 2.7 - 5km NNW of The Geysers, California<\/h2><dl><dt>Time<\/dt><dd>2013-10-" }, "geometry": { "type": "Point", "coordinates": [ -122.793, 38.8222, 0.0 ] } }
+,
+{ "type": "Feature", "id": 3, "properties": { "Name": "M 2.7 - 6km WNW of The Geysers, California", "Descriptio": "<h2>M 2.7 - 6km WNW of The Geysers, California<\/h2><p class=\"quicksummary\"><a hr" }, "geometry": { "type": "Point", "coordinates": [ -122.8235, 38.8108, 0.0 ] } }
+,
+{ "type": "Feature", "id": 4, "properties": { "Name": "M 2.7 - 4km WNW of Cobb, California", "Descriptio": "<h2>M 2.7 - 4km WNW of Cobb, California<\/h2><p class=\"quicksummary\"><a href=\"htt" }, "geometry": { "type": "Point", "coordinates": [ -122.7693, 38.8355, 0.0 ] } }
+,
+{ "type": "Feature", "id": 5, "properties": { "Name": "M 2.7 - 0km ENE of The Geysers, California", "Descriptio": "<h2>M 2.7 - 0km ENE of The Geysers, California<\/h2><dl><dt>Time<\/dt><dd>2013-10-" }, "geometry": { "type": "Point", "coordinates": [ -122.7483, 38.7805, 0.0 ] } }
+,
+{ "type": "Feature", "id": 6, "properties": { "Name": "M 2.6 - 5km WNW of Cobb, California", "Descriptio": "<h2>M 2.6 - 5km WNW of Cobb, California<\/h2><p class=\"quicksummary\"><a href=\"htt" }, "geometry": { "type": "Point", "coordinates": [ -122.7815, 38.8357, 0.0 ] } }
+,
+{ "type": "Feature", "id": 7, "properties": { "Name": "M 2.7 - 7km W of Cobb, California", "Descriptio": "<h2>M 2.7 - 7km W of Cobb, California<\/h2><p class=\"quicksummary\"><a href=\"http:" }, "geometry": { "type": "Point", "coordinates": [ -122.8063, 38.8307, 0.0 ] } }
+,
+{ "type": "Feature", "id": 8, "properties": { "Name": "M 2.5 - 3km E of The Geysers, California", "Descriptio": "<h2>M 2.5 - 3km E of The Geysers, California<\/h2><dl><dt>Time<\/dt><dd>2013-10-08" }, "geometry": { "type": "Point", "coordinates": [ -122.7195, 38.7765, 0.0 ] } }
+,
+{ "type": "Feature", "id": 9, "properties": { "Name": "M 3.1 - 6km W of Cobb, California", "Descriptio": "<h2>M 3.1 - 6km W of Cobb, California<\/h2><p class=\"quicksummary\"><a href=\"http:" }, "geometry": { "type": "Point", "coordinates": [ -122.8005, 38.8328, 0.0 ] } }
+,
+{ "type": "Feature", "id": 10, "properties": { "Name": "M 2.5 - 6km W of Cobb, California", "Descriptio": "<h2>M 2.5 - 6km W of Cobb, California<\/h2><dl><dt>Time<\/dt><dd>2013-10-01 20:44:" }, "geometry": { "type": "Point", "coordinates": [ -122.8022, 38.834, 0.0 ] } }
+,
+{ "type": "Feature", "id": 11, "properties": { "Name": "M 2.7 - 6km WNW of Cobb, California", "Descriptio": "<h2>M 2.7 - 6km WNW of Cobb, California<\/h2><dl><dt>Time<\/dt><dd>2013-10-01 17:5" }, "geometry": { "type": "Point", "coordinates": [ -122.7948, 38.8343, 0.0 ] } }
+,
+{ "type": "Feature", "id": 12, "properties": { "Name": "M 2.8 - 2km SW of Cobb, California", "Descriptio": "<h2>M 2.8 - 2km SW of Cobb, California<\/h2><p class=\"quicksummary\"><a href=\"http" }, "geometry": { "type": "Point", "coordinates": [ -122.7383, 38.8057, 0.0 ] } }
+,
+{ "type": "Feature", "id": 13, "properties": { "Name": "M 2.5 - 6km W of Cobb, California", "Descriptio": "<h2>M 2.5 - 6km W of Cobb, California<\/h2><p class=\"quicksummary\"><a href=\"http:" }, "geometry": { "type": "Point", "coordinates": [ -122.802, 38.8275, 0.0 ] } }
+,
+{ "type": "Feature", "id": 14, "properties": { "Name": "M 2.6 - 5km ESE of Willits, California", "Descriptio": "<h2>M 2.6 - 5km ESE of Willits, California<\/h2><p class=\"quicksummary\"><a href=\"" }, "geometry": { "type": "Point", "coordinates": [ -123.2997, 39.3813, 0.0 ] } }
+,
+{ "type": "Feature", "id": 15, "properties": { "Name": "M 2.5 - 6km W of Cobb, California", "Descriptio": "<h2>M 2.5 - 6km W of Cobb, California<\/h2><p class=\"quicksummary\"><a href=\"http:" }, "geometry": { "type": "Point", "coordinates": [ -122.7982, 38.8297, 0.0 ] } }
+,
+{ "type": "Feature", "id": 16, "properties": { "Name": "M 3.1 - 17km NNE of Lucerne, California", "Descriptio": "<h2>M 3.1 - 17km NNE of Lucerne, California<\/h2><p class=\"quicksummary\"><a href=" }, "geometry": { "type": "Point", "coordinates": [ -122.7018, 39.2287, 0.0 ] } }
+,
+{ "type": "Feature", "id": 17, "properties": { "Name": "M 2.5 - 5km NW of The Geysers, California", "Descriptio": "<h2>M 2.5 - 5km NW of The Geysers, California<\/h2><p class=\"quicksummary\"><a hre" }, "geometry": { "type": "Point", "coordinates": [ -122.7993, 38.8182, 0.0 ] } }
+,
+{ "type": "Feature", "id": 18, "properties": { "Name": "M 2.9 - 12km ENE of Cloverdale, California", "Descriptio": "<h2>M 2.9 - 12km ENE of Cloverdale, California<\/h2><p class=\"quicksummary\"><a hr" }, "geometry": { "type": "Point", "coordinates": [ -122.88, 38.8347, 0.0 ] } }
+,
+{ "type": "Feature", "id": 19, "properties": { "Name": "M 2.5 - 12km ENE of Cloverdale, California", "Descriptio": "<h2>M 2.5 - 12km ENE of Cloverdale, California<\/h2><p class=\"quicksummary\"><a hr" }, "geometry": { "type": "Point", "coordinates": [ -122.8768, 38.8323, 0.0 ] } }
+,
+{ "type": "Feature", "id": 20, "properties": { "Name": "M 2.6 - 4km NW of The Geysers, California", "Descriptio": "<h2>M 2.6 - 4km NW of The Geysers, California<\/h2><p class=\"quicksummary\"><a hre" }, "geometry": { "type": "Point", "coordinates": [ -122.7883, 38.8122, 0.0 ] } }
+,
+{ "type": "Feature", "id": 21, "properties": { "Name": "M 2.8 - 4km WNW of The Geysers, California", "Descriptio": "<h2>M 2.8 - 4km WNW of The Geysers, California<\/h2><p class=\"quicksummary\"><a hr" }, "geometry": { "type": "Point", "coordinates": [ -122.807, 38.7905, 0.0 ] } }
+,
+{ "type": "Feature", "id": 22, "properties": { "Name": "M 2.5 - 6km NW of The Geysers, California", "Descriptio": "<h2>M 2.5 - 6km NW of The Geysers, California<\/h2><p class=\"quicksummary\"><a hre" }, "geometry": { "type": "Point", "coordinates": [ -122.813, 38.8212, 0.0 ] } }
+,
+{ "type": "Feature", "id": 23, "properties": { "Name": "M 3.8 - 4km ESE of The Geysers, California", "Descriptio": "<h2>M 3.8 - 4km ESE of The Geysers, California<\/h2><p class=\"quicksummary\"><a hr" }, "geometry": { "type": "Point", "coordinates": [ -122.7125, 38.762, 0.0 ] } }
+,
+{ "type": "Feature", "id": 24, "properties": { "Name": "M 2.8 - 1km ESE of The Geysers, California", "Descriptio": "<h2>M 2.8 - 1km ESE of The Geysers, California<\/h2><p class=\"quicksummary\"><a hr" }, "geometry": { "type": "Point", "coordinates": [ -122.7353, 38.7737, 0.0 ] } }
+,
+{ "type": "Feature", "id": 25, "properties": { "Name": "M 2.7 - 3km W of Cobb, California", "Descriptio": "<h2>M 2.7 - 3km W of Cobb, California<\/h2><p class=\"quicksummary\"><a href=\"http:" }, "geometry": { "type": "Point", "coordinates": [ -122.7617, 38.8217, 0.0 ] } }
+,
+{ "type": "Feature", "id": 26, "properties": { "Name": "M 2.6 - 2km NW of The Geysers, California", "Descriptio": "<h2>M 2.6 - 2km NW of The Geysers, California<\/h2><p class=\"quicksummary\"><a hre" }, "geometry": { "type": "Point", "coordinates": [ -122.7833, 38.7942, 0.0 ] } }
+,
+{ "type": "Feature", "id": 27, "properties": { "Name": "M 2.8 - 6km WNW of Cobb, California", "Descriptio": "<h2>M 2.8 - 6km WNW of Cobb, California<\/h2><p class=\"quicksummary\"><a href=\"htt" }, "geometry": { "type": "Point", "coordinates": [ -122.8003, 38.8352, 0.0 ] } }
+,
+{ "type": "Feature", "id": 28, "properties": { "Name": "M 3.2 - 4km SE of The Geysers, California", "Descriptio": "<h2>M 3.2 - 4km SE of The Geysers, California<\/h2><p class=\"quicksummary\"><a hre" }, "geometry": { "type": "Point", "coordinates": [ -122.7118, 38.7528, 0.0 ] } }
+,
+{ "type": "Feature", "id": 29, "properties": { "Name": "M 2.8 - 4km NW of The Geysers, California", "Descriptio": "<h2>M 2.8 - 4km NW of The Geysers, California<\/h2><p class=\"quicksummary\"><a hre" }, "geometry": { "type": "Point", "coordinates": [ -122.7908, 38.8047, 0.0 ] } }
+,
+{ "type": "Feature", "id": 30, "properties": { "Name": "M 3.3 - 6km NW of The Geysers, California", "Descriptio": "<h2>M 3.3 - 6km NW of The Geysers, California<\/h2><p class=\"quicksummary\"><a hre" }, "geometry": { "type": "Point", "coordinates": [ -122.8113, 38.8102, 0.0 ] } }
+,
+{ "type": "Feature", "id": 31, "properties": { "Name": "M 2.9 - 2km WNW of Santa Rosa, California", "Descriptio": "<h2>M 2.9 - 2km WNW of Santa Rosa, California<\/h2><p class=\"quicksummary\"><a hre" }, "geometry": { "type": "Point", "coordinates": [ -122.7352, 38.4482, 0.0 ] } }
+,
+{ "type": "Feature", "id": 32, "properties": { "Name": "M 3.1 - 6km WNW of The Geysers, California", "Descriptio": "<h2>M 3.1 - 6km WNW of The Geysers, California<\/h2><p class=\"quicksummary\"><a hr" }, "geometry": { "type": "Point", "coordinates": [ -122.8185, 38.8088, 0.0 ] } }
+,
+{ "type": "Feature", "id": 33, "properties": { "Name": "M 3.7 - 4km NW of The Geysers, California", "Descriptio": "<h2>M 3.7 - 4km NW of The Geysers, California<\/h2><p class=\"quicksummary\"><a hre" }, "geometry": { "type": "Point", "coordinates": [ -122.7947, 38.8082, 0.0 ] } }
+,
+{ "type": "Feature", "id": 34, "properties": { "Name": "M 3.2 - 6km NW of The Geysers, California", "Descriptio": "<h2>M 3.2 - 6km NW of The Geysers, California<\/h2><dl><dt>Time<\/dt><dd>2013-07-0" }, "geometry": { "type": "Point", "coordinates": [ -122.8148, 38.8118, 0.0 ] } }
+,
+{ "type": "Feature", "id": 35, "properties": { "Name": "M 2.6 - 9km SSW of Calistoga, California", "Descriptio": "<h2>M 2.6 - 9km SSW of Calistoga, California<\/h2><p class=\"quicksummary\"><a href" }, "geometry": { "type": "Point", "coordinates": [ -122.6323, 38.5073, 0.0 ] } }
+,
+{ "type": "Feature", "id": 36, "properties": { "Name": "M 3.3 - 2km NNE of The Geysers, California", "Descriptio": "<h2>M 3.3 - 2km NNE of The Geysers, California<\/h2><p class=\"quicksummary\"><a hr" }, "geometry": { "type": "Point", "coordinates": [ -122.7465, 38.794, 0.0 ] } }
+,
+{ "type": "Feature", "id": 37, "properties": { "Name": "M 3.3 - 1km NNW of The Geysers, California", "Descriptio": "<h2>M 3.3 - 1km NNW of The Geysers, California<\/h2><p class=\"quicksummary\"><a hr" }, "geometry": { "type": "Point", "coordinates": [ -122.762, 38.7888, 0.0 ] } }
+,
+{ "type": "Feature", "id": 38, "properties": { "Name": "M 2.7 - 1km NNW of The Geysers, California", "Descriptio": "<h2>M 2.7 - 1km NNW of The Geysers, California<\/h2><dl><dt>Time<\/dt><dd>2013-05-" }, "geometry": { "type": "Point", "coordinates": [ -122.762, 38.7893, 0.0 ] } }
+,
+{ "type": "Feature", "id": 39, "properties": { "Name": "M 3.0 - 6km NW of The Geysers, California", "Descriptio": "<h2>M 3.0 - 6km NW of The Geysers, California<\/h2><p class=\"quicksummary\"><a hre" }, "geometry": { "type": "Point", "coordinates": [ -122.8038, 38.8192, 0.0 ] } }
+,
+{ "type": "Feature", "id": 40, "properties": { "Name": "M 2.6 - 9km WNW of Cobb, California", "Descriptio": "<h2>M 2.6 - 9km WNW of Cobb, California<\/h2><p class=\"quicksummary\"><a href=\"htt" }, "geometry": { "type": "Point", "coordinates": [ -122.8302, 38.8395, 0.0 ] } }
+,
+{ "type": "Feature", "id": 41, "properties": { "Name": "M 2.5 - 6km W of Laytonville, California", "Descriptio": "<h2>M 2.5 - 6km W of Laytonville, California<\/h2><p class=\"quicksummary\"><a href" }, "geometry": { "type": "Point", "coordinates": [ -123.5543, 39.6827, 0.0 ] } }
+,
+{ "type": "Feature", "id": 42, "properties": { "Name": "M 2.5 - 13km N of Brooktrails, California", "Descriptio": "<h2>M 2.5 - 13km N of Brooktrails, California<\/h2><dl><dt>Time<\/dt><dd>2013-05-0" }, "geometry": { "type": "Point", "coordinates": [ -123.393, 39.5622, 0.0 ] } }
+,
+{ "type": "Feature", "id": 43, "properties": { "Name": "M 3.1 - 30km ENE of Willits, California", "Descriptio": "<h2>M 3.1 - 30km ENE of Willits, California<\/h2><p class=\"quicksummary\"><a href=" }, "geometry": { "type": "Point", "coordinates": [ -123.04, 39.5312, 0.0 ] } }
+,
+{ "type": "Feature", "id": 44, "properties": { "Name": "M 2.7 - 6km W of Cobb, California", "Descriptio": "<h2>M 2.7 - 6km W of Cobb, California<\/h2><p class=\"quicksummary\"><a href=\"http:" }, "geometry": { "type": "Point", "coordinates": [ -122.7987, 38.8315, 0.0 ] } }
+,
+{ "type": "Feature", "id": 45, "properties": { "Name": "M 3.0 - 8km W of Cobb, California", "Descriptio": "<h2>M 3.0 - 8km W of Cobb, California<\/h2><p class=\"quicksummary\"><a href=\"http:" }, "geometry": { "type": "Point", "coordinates": [ -122.8165, 38.8145, 0.0 ] } }
+,
+{ "type": "Feature", "id": 46, "properties": { "Name": "M 2.6 - 19km N of Upper Lake, California", "Descriptio": "<h2>M 2.6 - 19km N of Upper Lake, California<\/h2><p class=\"quicksummary\"><a href" }, "geometry": { "type": "Point", "coordinates": [ -122.905, 39.3433, 0.0 ] } }
+,
+{ "type": "Feature", "id": 47, "properties": { "Name": "M 3.5 - 4km SSW of Cobb, California", "Descriptio": "<h2>M 3.5 - 4km SSW of Cobb, California<\/h2><p class=\"quicksummary\"><a href=\"htt" }, "geometry": { "type": "Point", "coordinates": [ -122.7483, 38.7895, 0.0 ] } }
+,
+{ "type": "Feature", "id": 48, "properties": { "Name": "M 2.9 - 7km WSW of Cobb, California", "Descriptio": "<h2>M 2.9 - 7km WSW of Cobb, California<\/h2><p class=\"quicksummary\"><a href=\"htt" }, "geometry": { "type": "Point", "coordinates": [ -122.8117, 38.8077, 0.0 ] } }
+,
+{ "type": "Feature", "id": 49, "properties": { "Name": "M 2.7 - 7km W of Cobb, California", "Descriptio": "<h2>M 2.7 - 7km W of Cobb, California<\/h2><p class=\"quicksummary\"><a href=\"http:" }, "geometry": { "type": "Point", "coordinates": [ -122.8133, 38.8107, 0.0 ] } }
+,
+{ "type": "Feature", "id": 50, "properties": { "Name": "M 2.5 - 6km WNW of Cobb, California", "Descriptio": "<h2>M 2.5 - 6km WNW of Cobb, California<\/h2><p class=\"quicksummary\"><a href=\"htt" }, "geometry": { "type": "Point", "coordinates": [ -122.797, 38.8365, 0.0 ] } }
+,
+{ "type": "Feature", "id": 51, "properties": { "Name": "M 2.6 - 3km W of Cobb, California", "Descriptio": "<h2>M 2.6 - 3km W of Cobb, California<\/h2><p class=\"quicksummary\"><a href=\"http:" }, "geometry": { "type": "Point", "coordinates": [ -122.761, 38.8215, 0.0 ] } }
+,
+{ "type": "Feature", "id": 52, "properties": { "Name": "M 2.5 - 6km WSW of Cobb, California", "Descriptio": "<h2>M 2.5 - 6km WSW of Cobb, California<\/h2><p class=\"quicksummary\"><a href=\"htt" }, "geometry": { "type": "Point", "coordinates": [ -122.7922, 38.7933, 0.0 ] } }
+,
+{ "type": "Feature", "id": 53, "properties": { "Name": "M 2.5 - 7km S of Cobb, California", "Descriptio": "<h2>M 2.5 - 7km S of Cobb, California<\/h2><p class=\"quicksummary\"><a href=\"http:" }, "geometry": { "type": "Point", "coordinates": [ -122.7195, 38.7558, 0.0 ] } }
+,
+{ "type": "Feature", "id": 54, "properties": { "Name": "M 2.7 - 7km WNW of Cobb, California", "Descriptio": "<h2>M 2.7 - 7km WNW of Cobb, California<\/h2><p class=\"quicksummary\"><a href=\"htt" }, "geometry": { "type": "Point", "coordinates": [ -122.808, 38.8367, 0.0 ] } }
+,
+{ "type": "Feature", "id": 55, "properties": { "Name": "M 2.7 - 5km SW of Cobb, California", "Descriptio": "<h2>M 2.7 - 5km SW of Cobb, California<\/h2><p class=\"quicksummary\"><a href=\"http" }, "geometry": { "type": "Point", "coordinates": [ -122.7618, 38.786, 0.0 ] } }
+,
+{ "type": "Feature", "id": 56, "properties": { "Name": "M 3.1 - 29km SSE of Covelo, California", "Descriptio": "<h2>M 3.1 - 29km SSE of Covelo, California<\/h2><p class=\"quicksummary\"><a href=\"" }, "geometry": { "type": "Point", "coordinates": [ -123.0697, 39.5698, 0.0 ] } }
+,
+{ "type": "Feature", "id": 57, "properties": { "Name": "M 2.5 - 5km S of Cobb, California", "Descriptio": "<h2>M 2.5 - 5km S of Cobb, California<\/h2><p class=\"quicksummary\"><a href=\"http:" }, "geometry": { "type": "Point", "coordinates": [ -122.7127, 38.7737, 0.0 ] } }
+,
+{ "type": "Feature", "id": 58, "properties": { "Name": "M 2.8 - 4km WSW of Cobb, California", "Descriptio": "<h2>M 2.8 - 4km WSW of Cobb, California<\/h2><dl><dt>Time<\/dt><dd>2013-03-14 09:1" }, "geometry": { "type": "Point", "coordinates": [ -122.7778, 38.8107, 0.0 ] } }
+,
+{ "type": "Feature", "id": 59, "properties": { "Name": "M 2.7 - 5km W of Cobb, California", "Descriptio": "<h2>M 2.7 - 5km W of Cobb, California<\/h2><p class=\"quicksummary\"><a href=\"http:" }, "geometry": { "type": "Point", "coordinates": [ -122.7847, 38.8158, 0.0 ] } }
+,
+{ "type": "Feature", "id": 60, "properties": { "Name": "M 3.0 - 4km W of Cobb, California", "Descriptio": "<h2>M 3.0 - 4km W of Cobb, California<\/h2><p class=\"quicksummary\"><a href=\"http:" }, "geometry": { "type": "Point", "coordinates": [ -122.7797, 38.8255, 0.0 ] } }
+,
+{ "type": "Feature", "id": 61, "properties": { "Name": "M 3.4 - 6km W of Cobb, California", "Descriptio": "<h2>M 3.4 - 6km W of Cobb, California<\/h2><p class=\"quicksummary\"><a href=\"http:" }, "geometry": { "type": "Point", "coordinates": [ -122.7978, 38.825, 0.0 ] } }
+,
+{ "type": "Feature", "id": 62, "properties": { "Name": "M 3.9 - 6km W of Cobb, California", "Descriptio": "<h2>M 3.9 - 6km W of Cobb, California<\/h2><p class=\"quicksummary\"><a href=\"http:" }, "geometry": { "type": "Point", "coordinates": [ -122.7973, 38.827, 0.0 ] } }
+,
+{ "type": "Feature", "id": 63, "properties": { "Name": "M 4.5 - 5km WSW of Cobb, California", "Descriptio": "<h2>M 4.5 - 5km WSW of Cobb, California<\/h2><p class=\"quicksummary\"><a href=\"htt" }, "geometry": { "type": "Point", "coordinates": [ -122.7862, 38.8123, 0.0 ] } }
+,
+{ "type": "Feature", "id": 64, "properties": { "Name": "M 3.3 - 7km S of Cobb, California", "Descriptio": "<h2>M 3.3 - 7km S of Cobb, California<\/h2><p class=\"quicksummary\"><a href=\"http:" }, "geometry": { "type": "Point", "coordinates": [ -122.7312, 38.7545, 0.0 ] } }
+,
+{ "type": "Feature", "id": 65, "properties": { "Name": "M 2.5 - 5km W of Cobb, California", "Descriptio": "<h2>M 2.5 - 5km W of Cobb, California<\/h2><p class=\"quicksummary\"><a href=\"http:" }, "geometry": { "type": "Point", "coordinates": [ -122.786, 38.8142, 0.0 ] } }
+,
+{ "type": "Feature", "id": 66, "properties": { "Name": "M 2.7 - 6km WSW of Cobb, California", "Descriptio": "<h2>M 2.7 - 6km WSW of Cobb, California<\/h2><p class=\"quicksummary\"><a href=\"htt" }, "geometry": { "type": "Point", "coordinates": [ -122.7863, 38.7972, 0.0 ] } }
+,
+{ "type": "Feature", "id": 67, "properties": { "Name": "M 2.9 - 7km W of Cobb, California", "Descriptio": "<h2>M 2.9 - 7km W of Cobb, California<\/h2><p class=\"quicksummary\"><a href=\"http:" }, "geometry": { "type": "Point", "coordinates": [ -122.8067, 38.8225, 0.0 ] } }
+,
+{ "type": "Feature", "id": 68, "properties": { "Name": "M 2.5 - 7km W of Cobb, California", "Descriptio": "<h2>M 2.5 - 7km W of Cobb, California<\/h2><p class=\"quicksummary\"><a href=\"http:" }, "geometry": { "type": "Point", "coordinates": [ -122.804, 38.8203, 0.0 ] } }
+,
+{ "type": "Feature", "id": 69, "properties": { "Name": "M 2.5 - 7km W of Cobb, California", "Descriptio": "<h2>M 2.5 - 7km W of Cobb, California<\/h2><p class=\"quicksummary\"><a href=\"http:" }, "geometry": { "type": "Point", "coordinates": [ -122.814, 38.8153, 0.0 ] } }
+,
+{ "type": "Feature", "id": 70, "properties": { "Name": "M 2.6 - 8km SSW of Calistoga, California", "Descriptio": "<h2>M 2.6 - 8km SSW of Calistoga, California<\/h2><p class=\"quicksummary\"><a href" }, "geometry": { "type": "Point", "coordinates": [ -122.6242, 38.513, 0.0 ] } }
+,
+{ "type": "Feature", "id": 71, "properties": { "Name": "M 3.4 - 5km WSW of Laytonville, California", "Descriptio": "<h2>M 3.4 - 5km WSW of Laytonville, California<\/h2><p class=\"quicksummary\"><a hr" }, "geometry": { "type": "Point", "coordinates": [ -123.5448, 39.6747, 0.0 ] } }
+,
+{ "type": "Feature", "id": 72, "properties": { "Name": "M 2.9 - 8km W of Cobb, California", "Descriptio": "<h2>M 2.9 - 8km W of Cobb, California<\/h2><p class=\"quicksummary\"><a href=\"http:" }, "geometry": { "type": "Point", "coordinates": [ -122.8208, 38.815, 0.0 ] } }
+,
+{ "type": "Feature", "id": 73, "properties": { "Name": "M 2.6 - 6km SSW of Cobb, California", "Descriptio": "<h2>M 2.6 - 6km SSW of Cobb, California<\/h2><p class=\"quicksummary\"><a href=\"htt" }, "geometry": { "type": "Point", "coordinates": [ -122.7397, 38.7658, 0.0 ] } }
+,
+{ "type": "Feature", "id": 74, "properties": { "Name": "M 2.8 - 5km SW of Cobb, California", "Descriptio": "<h2>M 2.8 - 5km SW of Cobb, California<\/h2><p class=\"quicksummary\"><a href=\"http" }, "geometry": { "type": "Point", "coordinates": [ -122.762, 38.7883, 0.0 ] } }
+,
+{ "type": "Feature", "id": 75, "properties": { "Name": "M 3.0 - 8km W of Cobb, California", "Descriptio": "<h2>M 3.0 - 8km W of Cobb, California<\/h2><p class=\"quicksummary\"><a href=\"http:" }, "geometry": { "type": "Point", "coordinates": [ -122.8192, 38.8127, 0.0 ] } }
+,
+{ "type": "Feature", "id": 76, "properties": { "Name": "M 2.8 - 9km W of Cobb, California", "Descriptio": "<h2>M 2.8 - 9km W of Cobb, California<\/h2><p class=\"quicksummary\"><a href=\"http:" }, "geometry": { "type": "Point", "coordinates": [ -122.8327, 38.8298, 0.0 ] } }
+,
+{ "type": "Feature", "id": 77, "properties": { "Name": "M 2.9 - 4km SSW of Cobb, California", "Descriptio": "<h2>M 2.9 - 4km SSW of Cobb, California<\/h2><dl><dt>Time<\/dt><dd>2013-02-04 18:3" }, "geometry": { "type": "Point", "coordinates": [ -122.7425, 38.7892, 0.0 ] } }
+,
+{ "type": "Feature", "id": 78, "properties": { "Name": "M 2.9 - 3km W of Cobb, California", "Descriptio": "<h2>M 2.9 - 3km W of Cobb, California<\/h2><p class=\"quicksummary\"><a href=\"http:" }, "geometry": { "type": "Point", "coordinates": [ -122.759, 38.826, 0.0 ] } }
+,
+{ "type": "Feature", "id": 79, "properties": { "Name": "M 3.0 - 6km W of Cobb, California", "Descriptio": "<h2>M 3.0 - 6km W of Cobb, California<\/h2><p class=\"quicksummary\"><a href=\"http:" }, "geometry": { "type": "Point", "coordinates": [ -122.795, 38.824, 0.0 ] } }
+,
+{ "type": "Feature", "id": 80, "properties": { "Name": "M 3.0 - Northern California", "Descriptio": "<h2>M 3.0 - Northern California<\/h2><dl><dt>Time<\/dt><dd>2013-01-22 17:58:41 UTC" }, "geometry": { "type": "Point", "coordinates": [ -122.768, 38.793, 0.0 ] } }
+,
+{ "type": "Feature", "id": 81, "properties": { "Name": "M 2.9 - 5km WSW of Cobb, California", "Descriptio": "<h2>M 2.9 - 5km WSW of Cobb, California<\/h2><dl><dt>Time<\/dt><dd>2013-01-21 21:5" }, "geometry": { "type": "Point", "coordinates": [ -122.785, 38.8, 0.0 ] } }
+,
+{ "type": "Feature", "id": 82, "properties": { "Name": "M 2.8 - Northern California", "Descriptio": "<h2>M 2.8 - Northern California<\/h2><dl><dt>Time<\/dt><dd>2013-01-13 15:38:52 UTC" }, "geometry": { "type": "Point", "coordinates": [ -122.812, 38.811, 0.0 ] } }
+,
+{ "type": "Feature", "id": 83, "properties": { "Name": "M 2.7 - Northern California", "Descriptio": "<h2>M 2.7 - Northern California<\/h2><dl><dt>Time<\/dt><dd>2013-01-08 18:36:32 UTC" }, "geometry": { "type": "Point", "coordinates": [ -122.757, 38.953, 0.0 ] } }
+,
+{ "type": "Feature", "id": 84, "properties": { "Name": "M 3.0 - Northern California", "Descriptio": "<h2>M 3.0 - Northern California<\/h2><dl><dt>Time<\/dt><dd>2013-01-08 15:22:12 UTC" }, "geometry": { "type": "Point", "coordinates": [ -122.724, 38.76, 0.0 ] } }
+,
+{ "type": "Feature", "id": 85, "properties": { "Name": "M 2.8 - Northern California", "Descriptio": "<h2>M 2.8 - Northern California<\/h2><dl><dt>Time<\/dt><dd>2012-12-26 06:11:13 UTC" }, "geometry": { "type": "Point", "coordinates": [ -122.79, 38.806, 0.0 ] } }
+,
+{ "type": "Feature", "id": 86, "properties": { "Name": "M 2.5 - Northern California", "Descriptio": "<h2>M 2.5 - Northern California<\/h2><dl><dt>Time<\/dt><dd>2012-12-25 10:48:22 UTC" }, "geometry": { "type": "Point", "coordinates": [ -122.773, 38.837, 0.0 ] } }
+,
+{ "type": "Feature", "id": 87, "properties": { "Name": "M 2.5 - Northern California", "Descriptio": "<h2>M 2.5 - Northern California<\/h2><dl><dt>Time<\/dt><dd>2012-12-21 04:35:46 UTC" }, "geometry": { "type": "Point", "coordinates": [ -122.722, 38.485, 0.0 ] } }
+,
+{ "type": "Feature", "id": 88, "properties": { "Name": "M 3.1 - Northern California", "Descriptio": "<h2>M 3.1 - Northern California<\/h2><dl><dt>Time<\/dt><dd>2012-12-17 00:03:27 UTC" }, "geometry": { "type": "Point", "coordinates": [ -122.763, 38.788, 0.0 ] } }
+,
+{ "type": "Feature", "id": 89, "properties": { "Name": "M 2.8 - Northern California", "Descriptio": "<h2>M 2.8 - Northern California<\/h2><dl><dt>Time<\/dt><dd>2012-12-13 07:32:24 UTC" }, "geometry": { "type": "Point", "coordinates": [ -122.786, 38.822, 0.0 ] } }
+,
+{ "type": "Feature", "id": 90, "properties": { "Name": "M 3.4 - Northern California", "Descriptio": "<h2>M 3.4 - Northern California<\/h2><dl><dt>Time<\/dt><dd>2012-12-13 05:17:22 UTC" }, "geometry": { "type": "Point", "coordinates": [ -122.797, 38.822, 0.0 ] } }
+,
+{ "type": "Feature", "id": 91, "properties": { "Name": "M 2.6 - Northern California", "Descriptio": "<h2>M 2.6 - Northern California<\/h2><dl><dt>Time<\/dt><dd>2012-11-28 05:11:30 UTC" }, "geometry": { "type": "Point", "coordinates": [ -122.794, 38.819, 0.0 ] } }
+,
+{ "type": "Feature", "id": 92, "properties": { "Name": "M 3.3 - Northern California", "Descriptio": "<h2>M 3.3 - Northern California<\/h2><dl><dt>Time<\/dt><dd>2012-11-24 08:10:18 UTC" }, "geometry": { "type": "Point", "coordinates": [ -122.79, 38.811, 0.0 ] } }
+,
+{ "type": "Feature", "id": 93, "properties": { "Name": "M 2.6 - Northern California", "Descriptio": "<h2>M 2.6 - Northern California<\/h2><dl><dt>Time<\/dt><dd>2012-11-18 10:55:54 UTC" }, "geometry": { "type": "Point", "coordinates": [ -122.787, 38.83, 0.0 ] } }
+,
+{ "type": "Feature", "id": 94, "properties": { "Name": "M 3.3 - Northern California", "Descriptio": "<h2>M 3.3 - Northern California<\/h2><dl><dt>Time<\/dt><dd>2012-11-13 13:40:05 UTC" }, "geometry": { "type": "Point", "coordinates": [ -123.09, 39.046, 0.0 ] } }
+,
+{ "type": "Feature", "id": 95, "properties": { "Name": "M 2.7 - Northern California", "Descriptio": "<h2>M 2.7 - Northern California<\/h2><dl><dt>Time<\/dt><dd>2012-11-09 23:33:08 UTC" }, "geometry": { "type": "Point", "coordinates": [ -122.817, 38.802, 0.0 ] } }
+,
+{ "type": "Feature", "id": 96, "properties": { "Name": "M 3.0 - Northern California", "Descriptio": "<h2>M 3.0 - Northern California<\/h2><dl><dt>Time<\/dt><dd>2012-11-02 20:23:42 UTC" }, "geometry": { "type": "Point", "coordinates": [ -122.792, 38.808, 0.0 ] } }
+,
+{ "type": "Feature", "id": 97, "properties": { "Name": "M 3.0 - Northern California", "Descriptio": "<h2>M 3.0 - Northern California<\/h2><dl><dt>Time<\/dt><dd>2012-11-01 03:24:19 UTC" }, "geometry": { "type": "Point", "coordinates": [ -122.715, 39.245, 0.0 ] } }
+,
+{ "type": "Feature", "id": 98, "properties": { "Name": "M 2.7 - Northern California", "Descriptio": "<h2>M 2.7 - Northern California<\/h2><dl><dt>Time<\/dt><dd>2012-10-29 05:48:41 UTC" }, "geometry": { "type": "Point", "coordinates": [ -122.78, 38.816, 0.0 ] } }
+,
+{ "type": "Feature", "id": 99, "properties": { "Name": "M 2.5 - Northern California", "Descriptio": "<h2>M 2.5 - Northern California<\/h2><dl><dt>Time<\/dt><dd>2012-10-24 18:29:06 UTC" }, "geometry": { "type": "Point", "coordinates": [ -123.156, 39.264, 0.0 ] } }
+
+]
+}
